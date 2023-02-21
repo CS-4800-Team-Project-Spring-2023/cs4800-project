@@ -10,5 +10,9 @@ def hello_world():
 def about():
 	return render_template('index.html')
 
+@app.route("/CS4800")
+def CS4800():
+    return "Welcome CS4800 to our CPP Map Finder application!"
+
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,11 +1,28 @@
 from flask import Flask, render_template
 import folium
+import pymongo
 
 app = Flask(__name__)
 
+
+#establish database connection using pymongo
+my_client = pymongo.MongoClient("mongodb+srv://christopherhoang707:OwOgDYtIYb6Vy9Li@cs4800cluster.bqyua9i.mongodb.net/?retryWrites=true&w=majority")
+
+mydb = my_client["CS4800-Project"]
+mycol = mydb["Locations"]
+
+
+
+#For now, just returns all locations with hydration states. Can't filter or interact with frontend, mostly just to
+#test database connection
 @app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
+def get_locations():
+    res = []
+    for location in mycol.find():
+         if location["hasWater"] == True:
+              location.pop("_id")
+              res.append(location["name"])
+    return res
 
 @app.route("/about-us")
 def about():

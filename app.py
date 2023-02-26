@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 #establish database connection using pymongo
-my_client = pymongo.MongoClient("mongodb+srv://christopherhoang707:OwOgDYtIYb6Vy9Li@cs4800cluster.bqyua9i.mongodb.net/?retryWrites=true&w=majority")
+my_client = pymongo.MongoClient("***")
 
 mydb = my_client["CS4800-Project"]
 mycol = mydb["Locations"]

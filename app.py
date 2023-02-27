@@ -12,21 +12,41 @@ mydb = my_client["CS4800-Project"]
 mycol = mydb["Locations"]
 
 
-
-#For now, just returns all locations with hydration states. Can't filter or interact with frontend, mostly just to
-#test database connection
-@app.route("/")
-def get_locations():
+def get_resource_locations(location):
     res = []
-    for location in mycol.find():
-         if location["hasWater"] == True:
-              location.pop("_id")
-              res.append(location["name"])
-    return res
+
+    if location == "water_station":
+        for location in mycol.find():
+            if location["hasWater"] == True:
+                location.pop("_id")
+                res.append(location["name"])
+        return res
+    elif location == "bike_rack":
+        for location in mycol.find():
+            if location["hasBikeRack"] == True:
+                location.pop("_id")
+                res.append(location["name"])
+        return res
+    elif location == "printer":
+        for location in mycol.find():
+            if location["hasPrinter"] == True:
+                location.pop("_id")
+                res.append(location["name"])
+        return res
+
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+    
+
+@app.route("/getlocations/<location>")
+def get_locations(location):
+    return get_resource_locations(location)
 
 @app.route("/about-us")
 def about():
-	return render_template('index.html')
+	return render_template('about.html')
 
 #Uses Folium to get a map location of Cal Poly Pomona
 @app.route("/map")

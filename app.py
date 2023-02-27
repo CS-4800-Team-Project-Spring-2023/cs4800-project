@@ -39,7 +39,7 @@ def get_resource_locations(location):
 def index():
     return render_template("index.html")
     
-
+#Url that is used by script.js to obtain locations and append to list
 @app.route("/getlocations/<location>")
 def get_locations(location):
     return get_resource_locations(location)

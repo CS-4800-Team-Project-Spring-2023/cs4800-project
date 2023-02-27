@@ -33,7 +33,8 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-
+//Function that is clicked on submit during index.html
+//Uses url to obtain resource locations and appends them to index.html
 function search() {
 	$("#result_list").empty();
 	var resource = $('#resourceselect').val();

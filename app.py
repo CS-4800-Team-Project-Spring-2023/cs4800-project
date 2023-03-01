@@ -1,6 +1,7 @@
 from flask import Flask, render_template
 import folium
 import pymongo
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -57,6 +58,11 @@ def map():
 @app.route("/CS4800")
 def CS4800():
     return "Welcome CS4800 to our CPP Map Finder application!"
+
+@app.route("/pandas")
+def pnd():
+    df = pd.DataFrame({ "Project": ["CPP", "Map", "Finder"]})
+    return df.to_string(index=False)
 
 @app.route("/Disclaimer")
 def disclaimer():

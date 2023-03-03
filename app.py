@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import folium
 import pymongo
 import pandas as pd
+import pytest
 
 app = Flask(__name__)
 
@@ -35,6 +36,9 @@ def get_resource_locations(location):
                 res.append(location["name"])
         return res
 
+# basic helper function for use in the pytest route
+def pytest_test(num):
+    return pow(num, 2)
 
 @app.route("/")
 def index():
@@ -63,6 +67,11 @@ def CS4800():
 def pnd():
     df = pd.DataFrame({ "Project": ["CPP", "Map", "Finder"]})
     return df.to_string(index=False)
+    
+@app.route("/pytest")
+def test_pytest():
+    assert pytest_test(5) == 25
+    return "CPP Map Finder could benefit from the usage of Pytest."
 
 @app.route("/Disclaimer")
 def disclaimer():

@@ -57,7 +57,12 @@ def about():
 @app.route("/map")
 def map():
     m = folium.Map(location=[34.05577715605838, -117.81930591750536], zoom_start=18)
-    return m.get_root().render()
+
+    m.get_root().width = "800px"
+    m.get_root().height = "600px"
+    iframe = m.get_root()._repr_html_()
+
+    return render_template("map.html", iframe=iframe)
 
 @app.route("/CS4800")
 def CS4800():

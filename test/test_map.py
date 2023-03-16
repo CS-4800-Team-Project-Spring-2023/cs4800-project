@@ -5,3 +5,9 @@ def test_map(app, client):
     assert "Home" in html
     assert "Map" in html
     assert "About" in html
+
+def test_bikeRack_location(app, client):
+    res = client.get('/getlocations/bike_rack')
+    assert res.status_code == 200
+    data = res.text
+    assert data == '["College of Science"]\n', "Bike rack list check failed"

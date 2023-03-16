@@ -1,16 +1,12 @@
 from flask import Flask, render_template
 import folium
-import pymongo
+import my_database
 import pandas as pd
 import pytest
 
 app = Flask(__name__)
 
-
-#establish database connection using pymongo
-my_client = pymongo.MongoClient("***")
-
-mydb = my_client["CS4800-Project"]
+mydb = my_database.my_client["CS4800-Project"]
 mycol = mydb["Locations"]
 
 

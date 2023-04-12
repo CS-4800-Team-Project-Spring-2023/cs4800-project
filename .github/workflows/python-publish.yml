@@ -37,5 +37,18 @@ jobs:
          username: ubuntu
          port: 22
          key: ${{ secrets.KEY }}
-         source: "./"
-         target: "~/"
+         source: ${{ github.workspace }}
+         target: "cs4800-project"
+         
+     - name: Run commands to start Flask venv and application
+       uses: appleboy/ssh-action@v0.1.9
+       with:
+         host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
+         username: ubuntu
+         key: ${{ secrets.KEY }}
+         port: 22
+         script: |
+           ps -e | grep flask | awk '{print $1}' | xargs kill
+           cd cs4800-project/github/workspace
+           source .venv/bin/activate
+           nohup flask run --host=172.31.23.38 &

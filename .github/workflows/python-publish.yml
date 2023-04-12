@@ -39,5 +39,5 @@ jobs:
           username: ec2-user
           port: 22
           key: ${{ secrets.KEY }}
-          source: "/"
+          source: "./"
           target: "~/"

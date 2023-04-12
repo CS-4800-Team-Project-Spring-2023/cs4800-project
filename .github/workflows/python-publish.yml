@@ -34,7 +34,7 @@ jobs:
        uses: appleboy/scp-action@v0.1.4
        with:
          host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
-         username: ec2-user
+         username: ubuntu
          port: 22
          key: ${{ secrets.KEY }}
          source: "./"

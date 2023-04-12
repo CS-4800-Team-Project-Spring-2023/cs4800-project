@@ -37,6 +37,5 @@ jobs:
          username: ubuntu
          port: 22
          key: ${{ secrets.KEY }}
-         overwrite: true
          source: ${{ github.workspace }}
          target: "cs4800-project"

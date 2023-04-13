@@ -32,7 +32,7 @@ jobs:
      - name: Checkout the files
        uses: actions/checkout@v3
 
-     - name: Copy Flask Folder to EC2 via SSH Key
+     - name: Copy Flask Files to EC2 via SSH Key
        uses: appleboy/scp-action@v0.1.4
        with:
          host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
@@ -42,3 +42,26 @@ jobs:
          source: app.py, requirements.txt, static, templates, test
          target: "~/"
          
+     - name: Update requirements.txt
+       uses: appleboy/ssh-action@v0.1.9
+       with:
+         host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
+         username: ubuntu
+         key: ${{ secrets.KEY }}
+         port: 22
+         script: |
+           source .venv/bin/activate
+           pip3 install -r requirements.txt
+           
+     - name: Run commands to start Flask venv and application
+       uses: appleboy/ssh-action@v0.1.9
+       with:
+         host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
+         username: ubuntu
+         key: ${{ secrets.KEY }}
+         port: 22
+         script: |
+           ps -e | grep flask | awk '{print $1}' | xargs kill
+           # nohup variant command that redirects output in order to avoid actions timeout
+           nohup flask run --host=172.31.23.38 > nohup.out 2> nohup.err < /dev/null & 
+           deactivate

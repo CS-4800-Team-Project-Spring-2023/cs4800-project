@@ -41,6 +41,16 @@ jobs:
          key: ${{ secrets.KEY }}
          source: app.py, requirements.txt, static, templates, test
          target: "~/"
+
+     - name: Activate Virtual Environment
+       uses: appleboy/ssh-action@v0.1.9
+       with:
+         host: ec2-52-53-124-118.us-west-1.compute.amazonaws.com
+         username: ubuntu
+         key: ${{ secrets.KEY }}
+         port: 22
+         script: |
+           source .venv/bin/activate 
            
      - name: Update requirements.txt
        uses: appleboy/ssh-action@v0.1.9
@@ -50,7 +60,6 @@ jobs:
          key: ${{ secrets.KEY }}
          port: 22
          script: |
-           source .venv/bin/activate 
            pip3 install -r requirements.txt
            deactivate
            

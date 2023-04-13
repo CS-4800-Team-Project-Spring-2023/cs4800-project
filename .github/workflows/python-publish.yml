@@ -41,7 +41,7 @@ jobs:
          key: ${{ secrets.KEY }}
          source: app.py, requirements.txt, static, templates, test
          target: "~/"
-         
+           
      - name: Update requirements.txt
        uses: appleboy/ssh-action@v0.1.9
        with:
@@ -50,8 +50,9 @@ jobs:
          key: ${{ secrets.KEY }}
          port: 22
          script: |
-           source .venv/bin/activate
+           source .venv/bin/activate 
            pip3 install -r requirements.txt
+           deactivate
            
      - name: Run commands to start Flask venv and application
        uses: appleboy/ssh-action@v0.1.9

@@ -39,6 +39,6 @@ jobs:
          username: ubuntu
          port: 22
          key: ${{ secrets.KEY }}
-         source: app.py, requirements.txt
+         source: app.py, requirements.txt, static, templates, test
          target: "~/"
          

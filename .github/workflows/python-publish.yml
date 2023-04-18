@@ -65,5 +65,5 @@ jobs:
            source .venv/bin/activate 
            ps -e | grep python3 | awk '{print $1}' | xargs kill
            # nohup variant command that redirects output in order to avoid actions timeout
-           nohup python3 -m flask run --host=172.31.23.38 > nohup.out 2> nohup.err &  
+           nohup python3 -m flask run --host=172.31.23.38 >> nohup.out 2>> nohup.err &  
            deactivate

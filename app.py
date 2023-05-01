@@ -49,6 +49,18 @@ def get_locations(location):
 def about():
 	return render_template('about.html')
 
+# Use folium.Marker to group the resources to a specific category
+def createFeatureGroups(m): 
+    feature_group1 = folium.FeatureGroup(name="Water Stations", show=False)
+    feature_group2 = folium.FeatureGroup(name="Bike Racks", show=False)
+    feature_group3 = folium.FeatureGroup(name="Printers", show=False)
+
+    feature_group1.add_to(m)
+    feature_group2.add_to(m)
+    feature_group3.add_to(m)
+    
+    folium.LayerControl().add_to(m)
+
 #Uses Folium to get a map location of Cal Poly Pomona
 @app.route("/map")
 def map():
@@ -56,6 +68,9 @@ def map():
 
     m.get_root().width = "800px"
     m.get_root().height = "600px"
+
+    createFeatureGroups(m)
+
     iframe = m.get_root()._repr_html_()
 
     return render_template("map.html", iframe=iframe)

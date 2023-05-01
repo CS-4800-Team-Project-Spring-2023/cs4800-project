@@ -49,16 +49,29 @@ def get_locations(location):
 def about():
 	return render_template('about.html')
 
+def handleMarkers(resourceName, fg, colorName):
+    for location in mycol.find():
+        if location[resourceName] == True:
+            location.pop("_id")
+            folium.Marker(
+                location = [ location["latitude"], location["longitude"] ], 
+                popup = location["name"],
+                icon=folium.Icon(color=colorName)
+                ).add_to(fg)
+
 # Use folium.Marker to group the resources to a specific category
 def createFeatureGroups(m): 
     feature_group1 = folium.FeatureGroup(name="Water Stations", show=False)
     feature_group2 = folium.FeatureGroup(name="Bike Racks", show=False)
     feature_group3 = folium.FeatureGroup(name="Printers", show=False)
 
+    handleMarkers("hasWater", feature_group1, "blue")
+    handleMarkers("hasBikeRack", feature_group2, "green")
+    handleMarkers("hasPrinter", feature_group3, "black")
+
     feature_group1.add_to(m)
     feature_group2.add_to(m)
     feature_group3.add_to(m)
-    
     folium.LayerControl().add_to(m)
 
 #Uses Folium to get a map location of Cal Poly Pomona

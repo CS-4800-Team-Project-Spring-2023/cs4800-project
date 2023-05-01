@@ -49,14 +49,14 @@ def get_locations(location):
 def about():
 	return render_template('about.html')
 
-def handleMarkers(resourceName, fg, colorName):
+def handleMarkers(resourceName, fg, colorName, icon):
     for location in mycol.find():
         if location[resourceName] == True:
             location.pop("_id")
             folium.Marker(
                 location = [ location["latitude"], location["longitude"] ], 
                 popup = location["name"],
-                icon=folium.Icon(color=colorName)
+                icon=folium.Icon(color=colorName, icon=icon, prefix='fa')
                 ).add_to(fg)
 
 # Use folium.Marker to group the resources to a specific category
@@ -65,9 +65,9 @@ def createFeatureGroups(m):
     feature_group2 = folium.FeatureGroup(name="Bike Racks", show=False)
     feature_group3 = folium.FeatureGroup(name="Printers", show=False)
 
-    handleMarkers("hasWater", feature_group1, "blue")
-    handleMarkers("hasBikeRack", feature_group2, "green")
-    handleMarkers("hasPrinter", feature_group3, "black")
+    handleMarkers("hasWater", feature_group1, "blue", "fa-tint")
+    handleMarkers("hasBikeRack", feature_group2, "green", "fa-bicycle")
+    handleMarkers("hasPrinter", feature_group3, "black", "fa-print")
 
     feature_group1.add_to(m)
     feature_group2.add_to(m)

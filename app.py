@@ -66,18 +66,27 @@ def createFeatureGroups(m):
     feature_group3 = folium.FeatureGroup(name="Printers", show=False)
     feature_group4 = folium.FeatureGroup(name="Vending Machines", show=False)
     feature_group5 = folium.FeatureGroup(name="ATMs", show=False)
+    feature_group6 = folium.FeatureGroup(name="Covid Test", show=False)
+    feature_group7 = folium.FeatureGroup(name="Dining", show=False)
+    feature_group8 = folium.FeatureGroup(name="Library Return Drop Off Boxes", show=False)
 
     handleMarkers("hasWater", feature_group1, "blue", "fa-tint")
     handleMarkers("hasBikeRack", feature_group2, "green", "fa-bicycle")
     handleMarkers("hasPrinter", feature_group3, "black", "fa-print")
     handleMarkers("hasVending", feature_group4, "purple", "fa-building")
     handleMarkers("hasATM", feature_group5, "gray", "fa-usd")
+    handleMarkers("hasCovidTest", feature_group6, "red", "fa-medkit")
+    handleMarkers("hasDining", feature_group7, "orange", "fa-cutlery")
+    handleMarkers("hasLibraryReturn", feature_group8, "darkblue", "fa-book")
 
     feature_group1.add_to(m)
     feature_group2.add_to(m)
     feature_group3.add_to(m)
     feature_group4.add_to(m)
     feature_group5.add_to(m)
+    feature_group6.add_to(m)
+    feature_group7.add_to(m)
+    feature_group8.add_to(m)
     folium.LayerControl().add_to(m)
 
 #Uses Folium to get a map location of Cal Poly Pomona

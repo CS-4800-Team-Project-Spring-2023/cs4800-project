@@ -50,7 +50,7 @@ def about():
 	return render_template('about.html')
 
 def handleMarkers(resourceName, fg, colorName, icon):
-    for location in mycol.find():
+    for location in mycol.find({resourceName: {'$exists': True}}):
         if location[resourceName] == True:
             location.pop("_id")
             folium.Marker(
@@ -65,16 +65,19 @@ def createFeatureGroups(m):
     feature_group2 = folium.FeatureGroup(name="Bike Racks", show=False)
     feature_group3 = folium.FeatureGroup(name="Printers", show=False)
     feature_group4 = folium.FeatureGroup(name="Vending Machines", show=False)
+    feature_group5 = folium.FeatureGroup(name="ATMs", show=False)
 
     handleMarkers("hasWater", feature_group1, "blue", "fa-tint")
     handleMarkers("hasBikeRack", feature_group2, "green", "fa-bicycle")
     handleMarkers("hasPrinter", feature_group3, "black", "fa-print")
     handleMarkers("hasVending", feature_group4, "purple", "fa-building")
+    handleMarkers("hasATM", feature_group5, "gray", "fa-usd")
 
     feature_group1.add_to(m)
     feature_group2.add_to(m)
     feature_group3.add_to(m)
     feature_group4.add_to(m)
+    feature_group5.add_to(m)
     folium.LayerControl().add_to(m)
 
 #Uses Folium to get a map location of Cal Poly Pomona

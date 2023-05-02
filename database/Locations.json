@@ -512,15 +512,154 @@
   "hasEV": true,
   "tooltip": "22 charging stations available."
 },{
-  "name": "Parking Structure L",
-  "latitude": 34.05552714580326, 
-  "longitude": -117.8253668882693,
-  "hasEV": true,
-  "tooltip": "Features 2 EV chargers. This lot requires a faculty/staff permit."
-},{
   "name": "Parking Structure Q",
   "latitude": 34.05502246690948, 
   "longitude": -117.81676713189009,
   "hasEV": true,
   "tooltip": "There are 8 EV chargers provided in this lot. Requires a resident parking permit to park or charge EVs."
+},{
+  "name": "Parking Lot J", 
+  "latitude": 34.057985605863976, 
+  "longtitude": -117.8286173951618,
+  "hasParking": true,
+  "tooltip": "Parking Lot J1-J2 (Faculty/Staff)"
+},{
+  "name": "Parking Lot J",
+  "latitude": 34.05811383628941, 
+  "longitude": -117.82922545825242,
+  "hasParking": true,
+  "tooltip": "Parking Lot J3-J4 (Student)"
+},{
+  "name": "Parking Lot J",
+  "latitude": 34.056529260968645, 
+  "longitude": -117.82840733700232,
+  "hasParking": true,
+  "tooltip": "Parking Lot J5-J8 (Student)"
+},{
+  "name": "Permit Dispenser J",
+  "latitude": 34.05694321180313, 
+  "longitude": -117.82883862308556,
+  "hasParking": true,
+  "tooltip": "Permit Dispenser (Lot J)"
+},{
+  "name": "Parking Lot L",
+  "latitude": 34.05552714580326, 
+  "longitude": -117.8253668882693,
+  "hasEV": true,
+  "hasParking": true,
+  "tooltip": "Features 2 EV chargers. This lot requires a faculty/staff permit."
+},{
+  "name": "Parking Lot M",
+  "latitude": 34.05546385670122, 
+  "longitude": -117.8298584857665,
+  "hasParking": true,
+  "tooltip": "Parking Lot M (Students)"
+},{
+  "name": "Parmit Dispenser M",
+  "latitude": 34.05554940983529, 
+  "longitude": -117.83071844826965,
+  "hasParking": true,
+  "tooltip": "Permit Dispenser (Lot M)"
+},{
+  "name": "Permit Dispenser M",
+  "latitude": 34.055344775768056, 
+  "longitude": -117.82936031809227,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot M)"
+},{
+  "name": "Accessible Parking 1",
+  "latitude": 34.06020858143796, 
+  "longitude": -117.8179712578158,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Parking Structure 1)"
+},{
+  "name": "Accessible Parking 2",
+  "latitude": 34.05221310824704, 
+  "longitude": -117.82007587328185,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Parking Structure 2)"
+},{
+  "name": "Accessible Parking A",
+  "latitude": 34.060461405515106, 
+  "longitude": -117.82501101622253 ,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Faculty & Staff Lot A)"
+},{
+  "name": "Accessible Parking C",
+  "latitude": 34.059012298120294, 
+  "longitude": -117.81869129887875,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Short Term Parking)"
+},{
+  "name": "Accessible Parking E1",
+  "latitude": 34.06112080108297, 
+  "longitude": -117.81170737141193,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Lot E1)"
+},{
+  "name": "Accessible Parking E2",
+  "latitude": 34.06111023116834, 
+  "longitude": -117.8122878971669,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Lot E2)"
+},{
+  "name": "Accessible Parking F4",
+  "latitude": 34.060612998072045, 
+  "longitude": -117.8181523069246,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Faculty & Staff Lot F4)"
+},{
+  "name": "Accessible Parking F8",
+  "latitude": 34.059287860223144, 
+  "longitude": -117.8178559640824,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Lot F8)"
+},{
+  "name": "Accessible Parking G",
+  "latitude": 34.05578484311107, 
+  "longitude": -117.819979470848,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Lot G)"
+},{
+  "name": "Accessible Parking J",
+  "latitude": 34.05646787026156, 
+  "longitude": -117.82853286920758 ,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Lot J3-J8)"
+},{
+  "name": "Accessible Parking K",
+  "latitude": 34.050705021622896, 
+  "longitude": -117.82004394021962, 
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Student Lot K)"
+},{
+  "name": "Accessible Parking L",
+  "latitude": 34.05519756937629, 
+  "longitude": -117.8250187504863 ,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Lot L)"
+},{
+  "name": "Accessible Parking M",
+  "latitude": 34.05606199384389,  
+  "longitude": -117.82765209128594,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Faculty & Staff Lot M)"
+},{
+  "name": "Accessible Parking",
+  "latitude": 34.05762468142467, 
+  "longitude": -117.82265793199532,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (Camphor Lane and Olive Lane)"
+},{
+  "name": "Accessible Parking",
+  "latitude": 34.059030102253764, 
+  "longitude": -117.82495889918314,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (University Dr. by University Quad)"
+},{
+  "name": "Accessible Parking",
+  "latitude": 34.06085594347164, 
+  "longitude": -117.82111558543544,
+  "hasAccessibleParking": true,
+  "tooltip": "Accessible Parking (S University Dr. and Olive Lane Walk)"
 }]

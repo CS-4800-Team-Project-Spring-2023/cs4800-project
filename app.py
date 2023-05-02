@@ -37,64 +37,41 @@ def get_locations(resource):
 def about():
 	return render_template('about.html')
 
-def handleMarkers(resourceName, fg, colorName, icon):
-    for resource in mycol.find({resourceName: {'$exists': True}}):
-        if resource[resourceName] == True:
+def handleMarkers(m, name, resourceVar, color, icon):
+
+    feature_group = folium.FeatureGroup(name=name, show=False)
+
+    for resource in mycol.find({resourceVar: {'$exists': True}}):
+        if resource[resourceVar] == True:
             resource.pop("_id")
             print(resource["tooltip"])
             folium.Marker(
                 location = [ resource["latitude"], resource["longitude"] ], 
                 popup = resource["name"],
                 tooltip=resource["tooltip"],
-                icon=folium.Icon(color=colorName, icon=icon, prefix='fa'),
-                ).add_to(fg)
+                icon=folium.Icon(color=color, icon=icon, prefix='fa'),
+                ).add_to(feature_group)
+    
+    feature_group.add_to(m)
 
 # Use folium.Marker to group the resources to a specific category
 def createFeatureGroups(m): 
-    feature_group1 = folium.FeatureGroup(name="Water Stations", show=False)
-    feature_group2 = folium.FeatureGroup(name="Bike Racks", show=False)
-    feature_group3 = folium.FeatureGroup(name="Printers", show=False)
-    feature_group4 = folium.FeatureGroup(name="Vending Machines", show=False)
-    feature_group5 = folium.FeatureGroup(name="ATMs", show=False)
-    feature_group6 = folium.FeatureGroup(name="Covid Test", show=False)
-    feature_group7 = folium.FeatureGroup(name="Dining", show=False)
-    feature_group8 = folium.FeatureGroup(name="Library Return Drop Off Boxes", show=False)
-    feature_group9 = folium.FeatureGroup(name="Foothill Transit", show=False)
-    feature_group10 = folium.FeatureGroup(name="Electric Vehicle Charging", show=False)
-    feature_group11 = folium.FeatureGroup(name="Accessible Parking", show=False)
-    feature_group12 = folium.FeatureGroup(name="Permit Dispenser", show=False)
-    feature_group13 = folium.FeatureGroup(name="Student Residence Parking", show=False)
-    feature_group14 = folium.FeatureGroup(name="Student and Visitor Parking", show=False)
+    handleMarkers(m, "Water Stations", "hasWater", "blue", "fa-tint")
+    handleMarkers(m, "Bike Racks", "hasBikeRack", "green", "fa-bicycle")
+    handleMarkers(m, "Printers", "hasPrinter", "black", "fa-print")
+    handleMarkers(m, "Vending Machines", "hasVending", "purple", "fa-building")
+    handleMarkers(m, "ATMs", "hasATM", "gray", "fa-usd")
+    handleMarkers(m, "Covid Test", "hasCovidTest", "red", "fa-medkit")
+    handleMarkers(m, "Dining", "hasDining", "orange", "fa-cutlery")
+    handleMarkers(m, "Library Return Drop Off Boxes", "hasLibraryReturn", "darkblue", "fa-book")
+    handleMarkers(m, "Foothill Transit", "hasBusStop", "blue", "fa-bus")
+    handleMarkers(m, "Electric Vehicle Charging", "hasEV", "beige", "fa-plug")
+    handleMarkers(m, "Accessible Parking", "hasAccessibleParking", "lightblue", "fa-wheelchair")
+    handleMarkers(m, "Permit Dispenser", "hasPermitDispenser", "orange", "fa-ticket")
+    handleMarkers(m, "Student Residence Parking", "hasResidenceParking", "darkred", "fa-building")
+    handleMarkers(m, "Student & Visitor Parking", "hasStudentParking", "darkgreen", "fa-car")
+    handleMarkers(m, "Faculty & Staff Parking", "hasFacultyParking", "lightgreen", "fa-car")
 
-    handleMarkers("hasWater", feature_group1, "blue", "fa-tint")
-    handleMarkers("hasBikeRack", feature_group2, "green", "fa-bicycle")
-    handleMarkers("hasPrinter", feature_group3, "black", "fa-print")
-    handleMarkers("hasVending", feature_group4, "purple", "fa-building")
-    handleMarkers("hasATM", feature_group5, "gray", "fa-usd")
-    handleMarkers("hasCovidTest", feature_group6, "red", "fa-medkit")
-    handleMarkers("hasDining", feature_group7, "orange", "fa-cutlery")
-    handleMarkers("hasLibraryReturn", feature_group8, "darkblue", "fa-book")
-    handleMarkers("hasBusStop", feature_group9, "blue", "fa-bus")
-    handleMarkers("hasEV", feature_group10, "beige", "fa-plug")
-    handleMarkers("hasAccessibleParking", feature_group11, "lightblue", "fa-wheelchair")
-    handleMarkers("hasPermitDispenser", feature_group12, "orange", "fa-ticket")
-    handleMarkers("hasResidenceParking", feature_group13, "darkred", "fa-building")
-    handleMarkers("hasStudentParking", feature_group14, "darkgreen", "fa-product-hunt")
-
-    feature_group1.add_to(m)
-    feature_group2.add_to(m)
-    feature_group3.add_to(m)
-    feature_group4.add_to(m)
-    feature_group5.add_to(m)
-    feature_group6.add_to(m)
-    feature_group7.add_to(m)
-    feature_group8.add_to(m)
-    feature_group9.add_to(m)
-    feature_group10.add_to(m)
-    feature_group11.add_to(m)
-    feature_group12.add_to(m)
-    feature_group12.add_to(m)
-    feature_group14.add_to(m)
     folium.LayerControl().add_to(m)
 
 #Uses Folium to get a map location of Cal Poly Pomona

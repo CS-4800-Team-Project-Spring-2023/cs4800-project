@@ -488,66 +488,41 @@
   "hasBusStop": true,
   "tooltip": "NEW Silver Streak Line Bus Stop"
 },{
-  "name": "Parking Structure 1",
+  "name": "EV Parking Structure 1",
   "latitude": 34.0601664814201, 
   "longitude": -117.81668035188589,
   "hasEV": false,
   "tooltip": "Parking Structure 1"
 },{
-  "name": "Parking Structure 2",
+  "name": "EV Parking Structure 2",
   "latitude": 34.05216024374983, 
   "longitude": -117.8198950925153,
   "hasEV": true,
   "tooltip": "Contains 24 EV chargers. There are 8 located on each level."
 },{
-  "name": "Parking Structure B",
+  "name": "EV Parking Structure B",
   "latitude": 34.05293243887857, 
   "longitude": -117.81529256140902,
   "hasEV": true,
   "tooltip": "Parking Lot B"
 },{
-  "name": "Parking Structure H",
+  "name": "EV Parking Structure H",
   "latitude": 34.06098085005092, 
   "longitude": -117.81877588464604,
   "hasEV": true,
   "tooltip": "22 charging stations available."
 },{
-  "name": "Parking Structure Q",
+  "name": "EV Parking Structure Q",
   "latitude": 34.05502246690948, 
   "longitude": -117.81676713189009,
   "hasEV": true,
   "tooltip": "There are 8 EV chargers provided in this lot. Requires a resident parking permit to park or charge EVs."
 },{
-  "name": "Parking Lot J", 
-  "latitude": 34.057985605863976, 
-  "longtitude": -117.8286173951618,
-  "hasParking": true,
-  "tooltip": "Parking Lot J1-J2 (Faculty/Staff)"
-},{
-  "name": "Parking Lot J",
-  "latitude": 34.05811383628941, 
-  "longitude": -117.82922545825242,
-  "hasParking": true,
-  "tooltip": "Parking Lot J3-J4 (Student)"
-},{
-  "name": "Parking Lot J",
-  "latitude": 34.056529260968645, 
-  "longitude": -117.82840733700232,
-  "hasParking": true,
-  "tooltip": "Parking Lot J5-J8 (Student)"
-},{
   "name": "Parking Lot L",
   "latitude": 34.05552714580326, 
   "longitude": -117.8253668882693,
   "hasEV": true,
-  "hasParking": true,
   "tooltip": "Features 2 EV chargers. This lot requires a faculty/staff permit."
-},{
-  "name": "Parking Lot M",
-  "latitude": 34.05546385670122, 
-  "longitude": -117.8298584857665,
-  "hasParking": true,
-  "tooltip": "Parking Lot M (Students)"
 },{
   "name": "Accessible Parking 1",
   "latitude": 34.06020858143796, 
@@ -745,7 +720,7 @@
   "latitude": 34.050845117768944, 
   "longitude": -117.8172987914117,
   "hasPermitDispenser": true,
-  "tooltip": "Permit Dispenser (Near Kellogg Field)"
+  "tooltip": "Permit Dispenser (Kellogg Field)"
 },{
   "name": "Parking Residence",
   "latitude": 34.06160458528229, 
@@ -764,4 +739,118 @@
   "longitude": -117.81709877803229,
   "hasResidenceParking": true,
   "tooltip": "Student Residence Parking (Lot Q)"
+},{
+  "name": "Student Parking 1",
+  "latitude": 34.06029361355298, 
+  "longitude": -117.81687707822547,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Structure 1"
+},{
+  "name": "Student Parking 2",
+  "latitude": 34.051810411535335, 
+  "longitude": -117.81966267131025,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Structure 2"
+},{
+  "name": "Student Parking B",
+  "latitude": 34.052031733432614, 
+  "longitude": -117.81580137993062,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot B"
+},{
+  "name": "Student Parking E1",
+  "latitude": 34.06153343877808, 
+  "longitude": -117.81151375988819,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot E1"
+},{
+  "name": "Student Parking E2",
+  "latitude": 34.06072666461864, 
+  "longitude": -117.81262723919065,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot E2"
+},{
+  "name": "Student Parking F1",
+  "latitude": 34.062398960676326, 
+  "longitude": -117.81691264072809,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot F1"
+},{
+  "name": "Student Parking F3",
+  "latitude": 34.06208222532462, 
+  "longitude": -117.81630090914884,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot F3"
+},{
+  "name": "Student Parking F5",
+  "latitude": 34.06163589388977, 
+  "longitude": -117.81546599426812,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot F5"
+},{
+  "name": "Student Parking F9",
+  "latitude": 34.06021151536389, 
+  "longitude": -117.81540056128863,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot F9"
+},{
+  "name": "Student Parking F10",
+  "latitude": 34.06104222037426, 
+  "longitude": -117.81462652800728,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot F10"
+},{
+  "name": "Student Parking J3-J4",
+  "latitude": 34.05798234973667, 
+  "longitude": -117.82928728948659,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot J3-J4"
+},{
+  "name": "Student Parking J5-J8",
+  "latitude": 34.056564990247985, 
+  "longitude": -117.82829733872349,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot J5-J8"
+},{
+  "name": "Student Parking K",
+  "latitude": 34.05100494202866, 
+  "longitude": -117.82014368822998,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot K"
+},{
+  "name": "Student Parking M",
+  "latitude": 34.05551009901263, 
+  "longitude": -117.83000935166841,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot M"
+},{
+  "name": "Student Parking T",
+  "latitude": 34.060222422463745, 
+  "longitude": -117.81084836850674,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot T"
+},{
+  "name": "Student Parking U",
+  "latitude": 34.04890413171543, 
+  "longitude": -117.81742704780721,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking Lot U"
+},{
+  "name": "Student Parking",
+  "latitude": 34.06354665673082, 
+  "longitude": -117.8256494196434,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Parking (Kellogg House)"
+},{
+  "name": "Student Parking",
+  "latitude": 34.04967973146523, 
+  "longitude": -117.81316566046186,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Overflow Parking (Innovation Way & W Temple Ave)"
+},{
+  "name": "Student Parking",
+  "latitude": 34.05347643007613, 
+  "longitude": -117.80935570987626,
+  "hasStudentParking": true,
+  "tooltip": "Student & Visitor Overflow Parking (Kellog Dr & Valley Blvd)"
 }]

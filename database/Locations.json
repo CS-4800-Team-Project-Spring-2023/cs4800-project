@@ -14,7 +14,7 @@
   "latitude": 34.05796375624164,
   "longitude": -117.82668199381929,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": true,
   "hasVending": true,
   "tooltip": "Building 2: Huntley College of Agriculture"
@@ -25,7 +25,7 @@
   "latitude": 34.05808819562695,
   "longitude": -117.82571103410555,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": true,
   "tooltip": "Building 3: Science Laboratory"
@@ -51,7 +51,7 @@
   "latitude": 34.05777487468388,
   "longitude": -117.82445576029544,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": true, 
   "tooltip": "Building 5: College of Letters, Arts, and Social Sciences"
@@ -71,7 +71,7 @@
   "latitude": 34.05754377196932,
   "longitude": -117.82732572407939,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": false,
   "hasDining": true,
@@ -379,7 +379,7 @@
   "latitude": 34.058170414392315,
   "longitude": -117.81930055452253,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": false,
   "tooltip": "Building 121: Student Services Building"

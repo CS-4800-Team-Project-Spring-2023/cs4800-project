@@ -1,0 +1,490 @@
+[{
+  "buildingNum": 1,
+  "latitude": 34.059434795882964,
+  "longitude": -117.82433237870802,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": true,
+  "name": "Building One",
+  "hasVending": true,
+  "tooltip": "Building 1: Building One"
+},{
+  "buildingNum": 2,
+  "name": "College of Agriculture",
+  "latitude": 34.05796375624164,
+  "longitude": -117.82668199381929,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 2: Huntley College of Agriculture"
+},{
+
+  "buildingNum": 3,
+  "name": "Science Laboratory",
+  "latitude": 34.05808819562695,
+  "longitude": -117.82571103410555,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 3: Science Laboratory"
+},{
+  "buildingNum": 4,
+  "name": "Biotechnology Building",
+  "latitude": 34.05729266926448,
+  "longitude": -117.82538916900705,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 4: Biotechnology Building"
+},{
+  "buildingNum": "4A",
+  "name": "BioTrek Learning Center", 
+  "latitude": 34.05729509417733,
+  "longitude": -117.82601181265747,
+  "tooltip": "Building 4A: BioTrek Learning Center"
+},{
+  "buildingNum": 5,
+  "name": "College of Letters, Arts, Social Sciences",
+  "latitude": 34.05777487468388,
+  "longitude": -117.82445576029544,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true, 
+  "tooltip": "Building 5: College of Letters, Arts, and Social Sciences"
+},{
+  "buildingNum": 6,
+  "name": "College of Education and Integrative Studies",
+  "latitude": 34.058610394636375,
+  "longitude": -117.82287325697918,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 6: College of Education and Integrative Studies"
+},{
+  "buildingNum": 7,
+  "name": "College of Environmental Design ",
+  "latitude": 34.05754377196932,
+  "longitude": -117.82732572407939,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "hasDining": true,
+  "tooltip": "Building 7: College of Environmental Design"
+},{
+  "buildingNum": 8,
+  "name": "College of Science",
+  "latitude": 34.05873927729116,
+  "longitude": -117.82489027816753,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 8: College of Science"
+},{
+  "buildingNum": 9,
+  "name": "College of Engineering ",
+  "latitude": 34.05914370093104,
+  "longitude": -117.82229926419014,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 9: College of Engineering"
+},{
+  "buildingNum": 13,
+  "name": "Art Department and Engineering Anex",
+  "latitude": 34.058743721527264,
+  "longitude": -117.82071676093727,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 13: Art Departent and Engineering Annex"
+},{
+  "buildingNum": 15,
+  "name": "University Library",
+  "latitude": 34.05779709607617,
+  "longitude": -117.82158043228486,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": true,
+  "hasVending": false,
+  "hasDining": true,
+  "hasLibraryReturn": true,
+  "tooltip": "Building 15: Library"
+},{
+  "buildingNum": 17,
+  "name": "Engineering Laboratories",
+  "latitude": 34.06000142820288,
+  "longitude": -117.82124247394123,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 17: Engineering Laboratories"
+},{
+  "buildingNum": 24,
+  "name": "Music",
+  "latitude": 34.05701045559314,
+  "longitude": -117.82279279074736,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 24: Music"
+},{
+  "buildingNum": 25,
+  "name": "Drama Department/Teatre",
+  "latitude": 34.056588244418926,
+  "longitude": -117.82220806918072,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 25: Drama Department/Theatre"
+},{
+  "buildingNum": 26,
+  "name": "University Plaza",
+  "latitude": 34.05704601011535,
+  "longitude": -117.82020714118941,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 26: University Plaza"
+},{
+  "buildingNum": 35,
+  "name": "Bronco Student Center",
+  "latitude": 34.05622825216403,
+  "longitude": -117.82142486417784,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "hasATM": true,
+  "hasCovidTest": true,
+  "hasDining": true,
+  "tooltip": "Building 35: Bronco Student Center"
+},{
+  "buildingNum": 41,
+  "name": "Darlene May Gymnasium",
+  "latitude": 34.05396604366769,
+  "longitude": -117.8211298210807,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 41: Darlene May Gymnasium"
+},{
+  "buildingNum": 42,
+  "name": " Bronco Recreation Intramural Complex (BRIC)",
+  "latitude": 34.054428267976846,
+  "longitude": -117.82050754855698,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": false,
+  "hasVending": false,
+  "hasDining": true,
+  "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
+},{
+  "buildingNum": 43,
+  "name": "Kellogg Arena",
+  "latitude": 34.054428267976846,
+  "longitude": -117.81916107956167,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 43: Kellogg Arena"
+},{
+  "buildingNum": 45,
+  "name": "Apparel Merchandising and Management",
+  "latitude": 34.0610067927331,
+  "longitude": -117.8111899934556,
+  "hasWater": false,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 45: Apparel Merchandising and Management"
+},{
+  "buildingNum": 46,
+  "name": "Health Services",
+  "latitude": 34.05788598148572,
+  "longitude": -117.827974818487,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 46: Health Services"
+},{
+  "buildingNum": 52,
+  "name": "Vista Market",
+  "latitude": 34.0539815833845,
+  "longitude": -117.81790044159106,
+  "hasDining": true,
+  "tooltip": "Building 52: Vista Market"
+},{
+  "buildingNum": 54,
+  "name": "Residence Suites",
+  "latitude": 34.055237154489376,
+  "longitude": -117.81937029189767,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 54: Residence Suites"
+},{
+  "buildingNum": 60,
+  "name": "Building 60: Residence Suites",
+  "latitude": 34.05497048944589,
+  "longitude": -117.81845297642377,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 60: Residence Suites"
+},{
+  "buildingNum": 61,
+  "name": "Building 61: Residence Suites",
+  "latitude": 34.0546593791974,
+  "longitude": -117.81784679715494,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 61: Residence Suites"
+},{
+  "buildingNum": 62,
+  "name": "Building 62: Residence Suites",
+  "latitude": 34.05451715698273,
+  "longitude": -117.81724061791788,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 62: Residence Suites"
+},{
+  "buildingNum": 63,
+  "name": "Building 63: Residence Suites",
+  "latitude": 34.05366381872284,
+  "longitude": -117.81706895653201,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 63: Residence Suites"
+},{
+  "buildingNum": 66,
+  "name": "Bronco Bookstore",
+  "latitude": 34.05596603459901,
+  "longitude": -117.82046999766224,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "hasLibraryReturn": true,
+  "tooltip": "Building 66: Bronco Bookstore"
+},{
+  "buildingNum": 72,
+  "name": "Centerpointe Dining Commons",
+  "latitude": 34.05655934016228,
+  "longitude": -117.8189947829259,
+  "hasDining": true,
+  "tooltip": "Building 72: Centerpointe Dining Commons"
+},{
+  "buildingNum": 74,
+  "hasCovidTest": true,
+  "latitude": 34.056470469316906,
+  "longitude": -117.81763222042268,
+  "name": "Secoya Residence Hall",
+  "tooltip": "Building 74: Secoya Hall"
+},{
+  "buildingNum": 76,
+  "name": "Kellogg West Education/Dining",
+  "latitude": 34.0565860062174,
+  "longitude": "-117.82489027835202",
+  "hasDining": true,
+  "tooltip": "Building 76: Kellogg West Education/Dining"
+},{
+  "buildingNum": 79,
+  "name": "Collins College of Hospitality Management",
+  "latitude": 34.054921187374276,
+  "longitude": -117.82396722720543,
+  "hasWater": false,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "hasDining": true,
+  "tooltip": "Building 79: Collins College of Hospitality Management"
+},{
+  "buildingNum": 89,
+  "name": "Interim Design Center",
+  "latitude": 34.06069969392488,
+  "longitude": -117.81211265836465,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": true,
+  "hasVending": true,
+  "tooltip": "Building 89: Interim Design Center"
+},{
+  "buildingNum": 92,
+  "name": "Laboratory Facility",
+  "latitude": 34.057774874633935,
+  "longitude": -117.82617237405765,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 92: Laboratory Facility"
+},{
+  "buildingNum": 94,
+  "name": "University Office Building",
+  "latitude": 34.05946368306712,
+  "longitude": -117.82339896987922,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 94: University Office Building"
+},{
+  "buildingNum": 97,
+  "name": "Campus Center",
+  "latitude": 34.05774376471178,
+  "longitude": -117.82333996126697,
+  "hasWater": true,
+  "hasBikeRack": true,
+  "hasPrinter": false,
+  "hasVending": true,
+  "hasDining": true,
+  "tooltip": "Building 97: Campus Center"
+},{
+  "buildingNum": 98,
+  "name": "Classroom/Laboratory/Administration (C/L/A)",
+  "latitude": 34.059934765783716,
+  "longitude": -117.81992819153363,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": true,
+  "tooltip": "Building 98: Classroom/Laboratory/Adminstration (C/L/A)"
+},{
+  "buildingNum": 121,
+  "name": "Student Services Building",
+  "latitude": 34.058170414392315,
+  "longitude": -117.81930055452253,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "Building 121: Student Services Building"
+},{
+  "buildingNum": 162,
+  "name": "College of Business Administration Building",
+  "latitude": 34.06140577118429,
+  "longitude": -117.81993355592269,
+  "hasWater": true,
+  "hasBikeRack": false,
+  "hasPrinter": false,
+  "hasVending": false,
+  "tooltip": "College of Business Administration"
+},{
+  "name": "Innovation Brew Works",
+  "latitude": 34.04983478593992,
+  "longitude": -117.81484808777914,
+  "hasDining": true,
+  "tooltip": "Innovation Brew Works"
+},{
+  "name": "Farm Store",
+  "latitude": 34.04844803030882,
+  "longitude": -117.81923618176536,
+  "hasDining": true,
+  "tooltip": "Farm Store"
+},{
+  "name": "Drive-By Drop Return for Library Books",
+  "latitude": 34.05800373864473,
+  "longitude": -117.81827058650495,
+  "hasLibraryReturn": true,
+  "tooltip": "Drive-By Drop Return for Library Books"
+},{
+  "name": "Foothill Transit",
+  "Stop ID": 2565,
+  "latitude": 34.05070494340756, 
+  "longitude": -117.82105574194522,
+  "hasBusStop": true,
+  "tooltip": "NW Corner of S. University Dr. and Temple Ave. (Westbound)"
+},{
+  "name": "Foothill Transit",
+  "Stop ID": 2564,
+  "latitude": 34.0503798779685, 
+  "longitude": -117.82048478526072,
+  "hasBusStop": true,
+  "tooltip": "SE Corner of S. University Dr. and Temple Ave. (Eastbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2563,
+  "latitude": 34.050623207680054, 
+  "longitude": -117.81738490338829,
+  "hasBusStop": true,
+  "tooltip": "NW Corner of S. Campus Dr. and Temple Ave. (Westbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2322,
+  "latitude": 34.05078516218154,
+  "longitude": -117.81614278797801,
+  "hasBusStop": true,
+  "tooltip": "NE Corner of S. Campus Dr. and Temple Ave. (Northbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2562,
+  "latitude": 34.04994154664034, 
+  "longitude": -117.81613759961644,
+  "hasBusStop": true,
+  "tooltip": "SE Corner of S. Campus Dr. and Temple Ave. (Eastbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2566,
+  "latitude": 34.048565450959416,
+  "longitude": -117.81261870636317,
+  "hasBusStop": true,
+  "tooltip": "SW Corner of Temple Ave. and Valley Blvd. (Eastbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2567,
+  "latitude": 34.04878055121807, 
+  "longitude": -117.81268560363391,
+  "hasBusStop": true,
+  "tooltip": "NW Corner of Temple Ave. and Valley Blvd. (Westbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 2631,
+  "latitude": 34.048864756377256, 
+  "longitude": -117.8119533592628,
+  "hasBusStop": true,
+  "tooltip": "NE Corner of Temple Ave. adn Valley Blvd. (Northbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 3141,
+  "latitude": 34.05384573086951,  
+  "longitude": -117.81372586201744,
+  "hasBusStop": true,
+  "tooltip": "NW Corner of S. Campus Dr. and Kellogg Dr. (Southbound)"
+},{
+  "name": "Foothill Transit", 
+  "Stop ID": 3140,
+  "latitude": 34.0538284095306,
+  "longitude": -117.81363608674742,
+  "hasBusStop": true,
+  "tooltip": "NE Corner of S. Campus Dr. and Kellogg Dr. (Northbound)"
+},{
+  "name": "Foothill Transit", 
+  "latitude": 34.05803239490418,
+  "longitude": -117.81839079641989,
+  "hasBusStop": true,
+  "tooltip": "NEW Silver Streak Line Bus Stop"
+}]

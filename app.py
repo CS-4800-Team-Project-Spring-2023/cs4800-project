@@ -50,13 +50,15 @@ def about():
 	return render_template('about.html')
 
 def handleMarkers(resourceName, fg, colorName, icon):
-    for location in mycol.find({resourceName: {'$exists': True}}):
-        if location[resourceName] == True:
-            location.pop("_id")
+    for resource in mycol.find({resourceName: {'$exists': True}}):
+        if resource[resourceName] == True:
+            resource.pop("_id")
+            print(resource["tooltip"])
             folium.Marker(
-                location = [ location["latitude"], location["longitude"] ], 
-                popup = location["name"],
-                icon=folium.Icon(color=colorName, icon=icon, prefix='fa')
+                location = [ resource["latitude"], resource["longitude"] ], 
+                popup = resource["name"],
+                tooltip=resource["tooltip"],
+                icon=folium.Icon(color=colorName, icon=icon, prefix='fa'),
                 ).add_to(fg)
 
 # Use folium.Marker to group the resources to a specific category
@@ -69,6 +71,7 @@ def createFeatureGroups(m):
     feature_group6 = folium.FeatureGroup(name="Covid Test", show=False)
     feature_group7 = folium.FeatureGroup(name="Dining", show=False)
     feature_group8 = folium.FeatureGroup(name="Library Return Drop Off Boxes", show=False)
+    feature_group9 = folium.FeatureGroup(name="Foothill Transit", show=False)
 
     handleMarkers("hasWater", feature_group1, "blue", "fa-tint")
     handleMarkers("hasBikeRack", feature_group2, "green", "fa-bicycle")
@@ -78,6 +81,7 @@ def createFeatureGroups(m):
     handleMarkers("hasCovidTest", feature_group6, "red", "fa-medkit")
     handleMarkers("hasDining", feature_group7, "orange", "fa-cutlery")
     handleMarkers("hasLibraryReturn", feature_group8, "darkblue", "fa-book")
+    handleMarkers("hasBusStop", feature_group9, "blue", "fa-bus")
 
     feature_group1.add_to(m)
     feature_group2.add_to(m)
@@ -87,6 +91,7 @@ def createFeatureGroups(m):
     feature_group6.add_to(m)
     feature_group7.add_to(m)
     feature_group8.add_to(m)
+    feature_group9.add_to(m)
     folium.LayerControl().add_to(m)
 
 #Uses Folium to get a map location of Cal Poly Pomona

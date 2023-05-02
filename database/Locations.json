@@ -487,4 +487,40 @@
   "longitude": -117.81839079641989,
   "hasBusStop": true,
   "tooltip": "NEW Silver Streak Line Bus Stop"
+},{
+  "name": "Parking Structure 1",
+  "latitude": 34.0601664814201, 
+  "longitude": -117.81668035188589,
+  "hasEV": false,
+  "tooltip": "Parking Structure 1"
+},{
+  "name": "Parking Structure 2",
+  "latitude": 34.05216024374983, 
+  "longitude": -117.8198950925153,
+  "hasEV": true,
+  "tooltip": "Contains 24 EV chargers. There are 8 located on each level."
+},{
+  "name": "Parking Structure B",
+  "latitude": 34.05293243887857, 
+  "longitude": -117.81529256140902,
+  "hasEV": true,
+  "tooltip": "Parking Lot B"
+},{
+  "name": "Parking Structure H",
+  "latitude": 34.06098085005092, 
+  "longitude": -117.81877588464604,
+  "hasEV": true,
+  "tooltip": "22 charging stations available."
+},{
+  "name": "Parking Structure L",
+  "latitude": 34.05552714580326, 
+  "longitude": -117.8253668882693,
+  "hasEV": true,
+  "tooltip": "Features 2 EV chargers. This lot requires a faculty/staff permit."
+},{
+  "name": "Parking Structure Q",
+  "latitude": 34.05502246690948, 
+  "longitude": -117.81676713189009,
+  "hasEV": true,
+  "tooltip": "There are 8 EV chargers provided in this lot. Requires a resident parking permit to park or charge EVs."
 }]

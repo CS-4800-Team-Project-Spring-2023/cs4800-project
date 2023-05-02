@@ -39,7 +39,7 @@ function search() {
 	$("#result_list").empty();
 	var resource = $('#resourceselect').val();
 	$.ajax({
-	  url: "http://ec2-52-53-124-118.us-west-1.compute.amazonaws.com:5000/getlocations/" + resource,
+	  url: "http://ec2-52-53-124-118.us-west-1.compute.amazonaws.com/getlocations/" + resource,
 	  success: function (res) {
 		console.log("The result from the server is: " + res);
 		for(var i = 0; i < res.length; i++) {

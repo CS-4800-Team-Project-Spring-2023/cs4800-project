@@ -536,12 +536,6 @@
   "hasParking": true,
   "tooltip": "Parking Lot J5-J8 (Student)"
 },{
-  "name": "Permit Dispenser J",
-  "latitude": 34.05694321180313, 
-  "longitude": -117.82883862308556,
-  "hasParking": true,
-  "tooltip": "Permit Dispenser (Lot J)"
-},{
   "name": "Parking Lot L",
   "latitude": 34.05552714580326, 
   "longitude": -117.8253668882693,
@@ -554,18 +548,6 @@
   "longitude": -117.8298584857665,
   "hasParking": true,
   "tooltip": "Parking Lot M (Students)"
-},{
-  "name": "Parmit Dispenser M",
-  "latitude": 34.05554940983529, 
-  "longitude": -117.83071844826965,
-  "hasParking": true,
-  "tooltip": "Permit Dispenser (Lot M)"
-},{
-  "name": "Permit Dispenser M",
-  "latitude": 34.055344775768056, 
-  "longitude": -117.82936031809227,
-  "hasPermitDispenser": true,
-  "tooltip": "Permit Dispenser (Lot M)"
 },{
   "name": "Accessible Parking 1",
   "latitude": 34.06020858143796, 
@@ -662,4 +644,106 @@
   "longitude": -117.82111558543544,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (S University Dr. and Olive Lane Walk)"
+},{
+  "name": "Permit Dispenser 1",
+  "latitude": 34.06024064188275, 
+  "longitude": -117.81805103464225,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Parking Structure 1)"
+},{
+  "name": "Permit Dispenser 2",
+  "latitude": 34.051680142643825, 
+  "longitude": -117.8193608963,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Parking Structure 2)"
+},{
+  "name": "Permit Dispenser B1",
+  "latitude": 34.05291375343507, 
+  "longitude": -117.81554005636924,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot B)"
+},{
+  "name": "Permit Dispenser B2",
+  "latitude": 34.053839600853834, 
+  "longitude": -117.81441387626599,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot B)"
+},{
+  "name": "Permit Dispenser C",
+  "latitude": 34.05923405868731,  
+  "longitude": -117.81887556597967,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot C)"
+},{
+  "name": "Permit Dispenser E2",
+  "latitude": 34.061086840368304, 
+  "longitude": -117.81221767744485,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot E2)"
+},{
+  "name": "Permit Dispenser Express",
+  "latitude": 34.052829239260284, 
+  "longitude": -117.81025413745976,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Express Lot)"
+},{
+  "name": "Permit Dispenser F5",
+  "latitude": 34.061311043666, 
+  "longitude": -117.81606742182792 ,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot F5)"
+},{
+  "name": "Permit Dispenser G",
+  "latitude": 34.055741638776006,  
+  "longitude": -117.82007543799173,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot G by the Bookstore)"
+},{
+  "name": "Permit Dispenser J",
+  "latitude": 34.05694459064358, 
+  "longitude": -117.8287850872595,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot J)"
+},{
+  "name": "Permit Dispenser K",
+  "latitude": 34.0512206803618, 
+  "longitude": -117.82017995105994,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot K)"
+},{
+  "name": "Permit Dispenser M1",
+  "latitude": 34.05562591860928, 
+  "longitude": -117.83077865098818,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot M)"
+},{
+  "name": "Permit Dispenser M2",
+  "latitude": 34.05532201333596, 
+  "longitude": -117.82932095719681,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot M)"
+},{
+  "name": "Permit Dispenser U",
+  "latitude": 34.049382319212015,  
+  "longitude": -117.81715614572286,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Lot U)"
+},{
+  "name": "Permit Dispenser",
+  "latitude": 34.04899693255804, 
+  "longitude": -117.81495196968781,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (University Village)"
+},{
+  "name": "Permit Dispenser",
+  "latitude": 34.06038835395404, 
+  "longitude": -117.81581677961523,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Parking Information Booth)"
+},{
+  "name": "Permit Dispenser",
+  "latitude": 34.050845117768944, 
+  "longitude": -117.8172987914117,
+  "hasPermitDispenser": true,
+  "tooltip": "Permit Dispenser (Near Kellogg Field)"
 }]

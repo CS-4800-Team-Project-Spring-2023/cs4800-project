@@ -54,8 +54,14 @@ def handleMarkers(m, name, resourceVar, color, icon):
     
     feature_group.add_to(m)
 
-# Use folium.Marker to group the resources to a specific category
-def createFeatureGroups(m): 
+#Uses Folium to get a map location of Cal Poly Pomona
+@app.route("/map")
+def map():
+    m = folium.Map(location=[34.05577715605838, -117.81930591750536], zoom_start=18)
+
+    m.get_root().width = "800px"
+    m.get_root().height = "600px"
+
     handleMarkers(m, "Water Stations", "hasWater", "blue", "fa-tint")
     handleMarkers(m, "Bike Racks", "hasBikeRack", "green", "fa-bicycle")
     handleMarkers(m, "Printers", "hasPrinter", "black", "fa-print")
@@ -73,16 +79,6 @@ def createFeatureGroups(m):
     handleMarkers(m, "Faculty & Staff Parking", "hasFacultyParking", "lightgreen", "fa-car")
 
     folium.LayerControl().add_to(m)
-
-#Uses Folium to get a map location of Cal Poly Pomona
-@app.route("/map")
-def map():
-    m = folium.Map(location=[34.05577715605838, -117.81930591750536], zoom_start=18)
-
-    m.get_root().width = "800px"
-    m.get_root().height = "600px"
-
-    createFeatureGroups(m)
 
     iframe = m.get_root()._repr_html_()
 

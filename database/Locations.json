@@ -746,4 +746,22 @@
   "longitude": -117.8172987914117,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Near Kellogg Field)"
+},{
+  "name": "Parking Residence",
+  "latitude": 34.06160458528229, 
+  "longitude": -117.81773818605576,
+  "hasResidenceParking": true,
+  "tooltip": "Student Residence Parking (Lot F2)"
+},{
+  "name": "Parking Residence",
+  "latitude": 34.05447453947886, 
+  "longitude": -117.81554790704901,
+  "hasResidenceParking": true,
+  "tooltip": "Student Residence Parking (Lot P)"
+},{
+  "name": "Parking Residence",
+  "latitude": 34.0549239533391, 
+  "longitude": -117.81709877803229,
+  "hasResidenceParking": true,
+  "tooltip": "Student Residence Parking (Lot Q)"
 }]

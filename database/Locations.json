@@ -488,31 +488,31 @@
   "hasBusStop": true,
   "tooltip": "NEW Silver Streak Line Bus Stop"
 },{
-  "name": "EV Parking Structure 1",
+  "name": "Parking Structure 1",
   "latitude": 34.0601664814201, 
   "longitude": -117.81668035188589,
   "hasEV": false,
   "tooltip": "Parking Structure 1"
 },{
-  "name": "EV Parking Structure 2",
+  "name": "Parking Structure 2",
   "latitude": 34.05216024374983, 
   "longitude": -117.8198950925153,
   "hasEV": true,
   "tooltip": "Contains 24 EV chargers. There are 8 located on each level."
 },{
-  "name": "EV Parking Structure B",
+  "name": "Parking Structure B",
   "latitude": 34.05293243887857, 
   "longitude": -117.81529256140902,
   "hasEV": true,
   "tooltip": "Parking Lot B"
 },{
-  "name": "EV Parking Structure H",
+  "name": "Parking Structure H",
   "latitude": 34.06098085005092, 
   "longitude": -117.81877588464604,
   "hasEV": true,
   "tooltip": "22 charging stations available."
 },{
-  "name": "EV Parking Structure Q",
+  "name": "Parking Structure Q",
   "latitude": 34.05502246690948, 
   "longitude": -117.81676713189009,
   "hasEV": true,
@@ -853,4 +853,52 @@
   "longitude": -117.80935570987626,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Overflow Parking (Kellog Dr & Valley Blvd)"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.06035993988283, 
+  "longitude": -117.82458449027531,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot A"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.06107643672359, 
+  "longitude": -117.81731332360968,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking F4"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.059197555706845, 
+  "longitude": -117.81710092968525,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking F8"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.05801108714192, 
+  "longitude": -117.82854294888024,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot J1-J2"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.05556592049816, 
+  "longitude": -117.82545973337287,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot L"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.05589153431362, 
+  "longitude": -117.82800603452327,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot M"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.049998892611846, 
+  "longitude": -117.81445844731066,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot O"
+},{
+  "name": "Faculty and Staff Parking",
+  "latitude": 34.05996547195504, 
+  "longitude": -117.80987905750061,
+  "hasFacultyParking": true,
+  "tooltip": "Faculty and Staff Parking Lot S"
 }]

@@ -285,7 +285,7 @@
   "latitude": 34.05596603459901,
   "longitude": -117.82046999766224,
   "hasWater": true,
-  "hasBikeRack": false,
+  "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": true,
   "hasLibraryReturn": true,

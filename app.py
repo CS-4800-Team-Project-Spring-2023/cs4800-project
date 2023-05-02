@@ -10,27 +10,15 @@ mydb = my_database.my_client["CS4800-Project"]
 mycol = mydb["Locations"]
 
 
-def get_resource_locations(location):
+def get_resource_locations(resource):
     res = []
 
-    if location == "water_station":
-        for location in mycol.find():
-            if location["hasWater"] == True:
-                location.pop("_id")
-                res.append(location["name"])
-        return res
-    elif location == "bike_rack":
-        for location in mycol.find():
-            if location["hasBikeRack"] == True:
-                location.pop("_id")
-                res.append(location["name"])
-        return res
-    elif location == "printer":
-        for location in mycol.find():
-            if location["hasPrinter"] == True:
-                location.pop("_id")
-                res.append(location["name"])
-        return res
+    for location in mycol.find({resource: {'$exists': True}}):
+        if location[resource] == True:
+            location.pop("_id")
+            res.append(location["name"])
+    return res
+        
 
 # basic helper function for use in the pytest route
 def pytest_test(num):
@@ -41,9 +29,9 @@ def index():
     return render_template("index.html")
     
 #Url that is used by script.js to obtain locations and append to list
-@app.route("/getlocations/<location>")
-def get_locations(location):
-    return get_resource_locations(location)
+@app.route("/getlocations/<resource>")
+def get_locations(resource):
+    return get_resource_locations(resource)
 
 @app.route("/about-us")
 def about():

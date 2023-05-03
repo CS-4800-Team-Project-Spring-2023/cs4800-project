@@ -85,6 +85,7 @@ def map():
     handleMarkers(m, "LEED Certified Buildings", "isLeedCertifiedBuilding", "lightgreen", "fa-leaf")
     handleMarkers(m, "Solar Panels", "hasSolarPanel", "lightblue", "fa-leaf")
     handleMarkers(m, "Natural Environment", "hasNaturalEnvironment", "orange", "fa-mountain")
+    handleMarkers(m, "New Student Orientation", "hasOrientation", "purple", "fa-star")
 
     folium.LayerControl().add_to(m)
 

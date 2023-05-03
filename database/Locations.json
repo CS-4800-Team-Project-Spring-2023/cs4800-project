@@ -108,6 +108,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 9: College of Engineering"
 },{
   "buildingNum": 13,
@@ -154,6 +155,7 @@
   "hasLibraryReturn": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasOrientation": true,
   "tooltip": "Building 15: Library"
 },{
   "buildingNum": 17,
@@ -255,6 +257,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 25: Drama Department/Theatre"
 },{
   "buildingNum": 26,
@@ -267,6 +270,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasOrientation": true,
   "tooltip": "Building 26: University Plaza"
 },{
   "buildingNum": "26A",
@@ -343,6 +347,7 @@
   "hasDining": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasOrientation": true,
   "tooltip": "Building 35: Bronco Student Center"
 },{
   "buildingNum": "35A",
@@ -391,6 +396,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
 },{
   "buildingNum": 43,
@@ -591,6 +597,7 @@
   "hasVending": true,
   "hasLibraryReturn": true,
   "isBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 66: Bronco Bookstore"
 },{
   "buildingNum": 68,
@@ -622,6 +629,7 @@
   "hasDining": true,
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
   "buildingNum": 73,
@@ -858,6 +866,7 @@
   "longitude": -117.82265173148919,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 95: Cultural Centers"
 },{
   "buildingNum": 96,
@@ -966,6 +975,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "hasOrientation": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
@@ -1500,6 +1510,7 @@
   "longitude": -117.81966267131025,
   "hasStudentParking": true,
   "hasSolarPanel": true,
+  "hasOrientation": true,
   "tooltip": "Student & Visitor Parking Structure 2"
 },{
   "name": "Student Parking B",
@@ -1713,4 +1724,28 @@
   "longitude": -117.82038220205011,
   "hasNaturalEnvironment": true,
   "tooltip": "Rose Garden"
+},{
+  "name": "New Student Orientation",
+  "latitude": 34.05504064487435, 
+  "longitude": -117.8201818549635,
+  "hasOrientation": true,
+  "tooltip": "Bronco Commons"
+},{
+  "name": "New Student Orientation",
+  "latitude": 34.05632853311074, 
+  "longitude": -117.81807362988609,
+  "hasOrientation": true,
+  "tooltip": "Housing Tours"
+},{
+  "name": "New Student Orientation",
+  "latitude": 34.056916443651154, 
+  "longitude": -117.8209927963857,
+  "hasOrientation": true,
+  "tooltip": "University Park (Check-In & Campus Tours)"
+},{
+  "name": "New Student Orientation",
+  "latitude": 34.058571811720725, 
+  "longitude": -117.82374021576138,
+  "hasOrientation": true,
+  "tooltip": "University Quad"
 }]

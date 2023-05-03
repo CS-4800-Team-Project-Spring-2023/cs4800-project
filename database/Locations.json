@@ -387,6 +387,7 @@
   "hasDining": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
 },{
   "buildingNum": 43,
@@ -471,6 +472,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 54: Residence Suites"
 },{
   "buildingNum": 55,
@@ -518,6 +520,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 60: Residence Suites"
 },{
   "buildingNum": 61,
@@ -530,6 +533,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 61: Residence Suites"
 },{
   "buildingNum": 62,
@@ -542,6 +546,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 62: Residence Suites"
 },{
   "buildingNum": 63,
@@ -554,6 +559,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 63: Residence Suites"
 },{
   "buildingNum": 64,
@@ -610,6 +616,7 @@
   "longitude": -117.8189947829259,
   "hasDining": true,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
   "buildingNum": 73,
@@ -617,6 +624,7 @@
   "latitude": 34.056250166835206, 
   "longitude": -117.81841780612548,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 73: Residence Suites, Sicomoro Hall"
 },{
   "buildingNum": 74,
@@ -625,6 +633,7 @@
   "longitude": -117.81763222042268,
   "name": "Residence Suites",
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 74: Residence Suites, Secoya Hall"
 },{
   "buildingNum": 75,
@@ -694,6 +703,7 @@
   "latitude": 34.054800683586734, 
   "longitude": -117.82546982437026,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 80: Collins College of Hospitality Management"
 },{
   "buildingNum": 81,
@@ -736,6 +746,7 @@
   "latitude": 34.05098627682375, 
   "longitude": -117.81952443703798,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 85: I-Poly High School"
 },{
   "buildingNum": 86,
@@ -934,6 +945,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
@@ -945,6 +957,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "College of Business Administration"
 },{
   "buildingNum": 163,
@@ -952,6 +965,7 @@
   "latitude": 34.06127578245078, 
   "longitude": -117.82021757233515,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 163: College of Business Administration"
 },{
   "buildingNum": 164,
@@ -960,6 +974,7 @@
   "longitude": -117.81978841889544,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 164: College of Business Administration"
 },{
   "buildingNum": 193,
@@ -1038,13 +1053,14 @@
   "latitude": 34.04842556198457, 
   "longitude": -117.81921147694435,
   "isBuilding": true,
-  "tooltip": "AGRIscapes"
+  "tooltip": "Building 211A: AGRIscapes"
 },{
   "buildingNum": 215,
   "name": "Edison SCE2",
   "latitude": 34.051901117005464, 
   "longitude": -117.81096168264973,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 215: Edison SCE2"
 },{
   "buildingNum": 216,
@@ -1052,7 +1068,8 @@
   "latitude": 34.05114615166006, 
   "longitude": -117.81389378044462,
   "isBuilding": true,
-  "tooltip": "Building 216: "
+  "isLeedCertifiedBuilding": true,
+  "tooltip": "Building 216: Innovation Village SCE"
 },{
   "buildingNum": 218,
   "name": "American Red Cross Headquarters",
@@ -1066,6 +1083,7 @@
   "latitude": 34.05265607558341, 
   "longitude": -117.81322616432163,
   "isBuilding": true,
+  "isLeedCertifiedBuilding": true,
   "tooltip": "Building 219: Edison SCE1"
 },{
   "buildingNum": 200,
@@ -1623,4 +1641,16 @@
   "longitude": -117.81976246488206,
   "hasRestrictedParking": true,
   "tooltip": "Restricted Parking Lot G"
+},{
+  "name": "Solar Umbrella",
+  "latitude": 34.05518010797316, 
+  "longitude": -117.824480187128,
+  "hasSolarUmbrella": true,
+  "tooltip": "Collins Solar Umbrella"
+},{
+  "name": "Solar Umbrella",
+  "latitude": 34.05963566556445, 
+  "longitude": -117.82482143080802,
+  "hasSolarUmbrella": true,
+  "tooltip": "Project Blue Solar Umbrella"
 }]

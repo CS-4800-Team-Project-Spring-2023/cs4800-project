@@ -399,6 +399,7 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasSolarPanel": true,
   "tooltip": "Building 43: Kellogg Arena"
 },{
   "buildingNum": 44,
@@ -990,6 +991,7 @@
   "latitude": 34.050046313667984, 
   "longitude": -117.82281806167212,
   "isBuilding": true,
+  "hasSolarPanel": true,
   "tooltip": "Building 208: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": "209C",
@@ -1472,6 +1474,7 @@
   "latitude": 34.051810411535335, 
   "longitude": -117.81966267131025,
   "hasStudentParking": true,
+  "hasSolarPanel": true,
   "tooltip": "Student & Visitor Parking Structure 2"
 },{
   "name": "Student Parking B",
@@ -1544,6 +1547,7 @@
   "latitude": 34.05551009901263, 
   "longitude": -117.83000935166841,
   "hasStudentParking": true,
+  "hasSolarPanel": true,
   "tooltip": "Student & Visitor Parking Lot M"
 },{
   "name": "Student Parking T",

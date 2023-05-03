@@ -83,6 +83,7 @@ def map():
     handleMarkers(m, "Gender Inclusive Restrooms", "hasGenderInclusiveRestroom", "black", "fa-restroom")
     handleMarkers(m, "Solar Umbrellas", "hasSolarUmbrellas", "blue", "fa-umbrella")
     handleMarkers(m, "LEED Certified Buildings", "isLeedCertifiedBuilding", "lightgreen", "fa-leaf")
+    handleMarkers(m, "Solar Panels", "hasSolarPanel", "lightbue", "fa-envira")
 
     folium.LayerControl().add_to(m)
 

@@ -1049,7 +1049,7 @@
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
-  "name": "College of Business Administration Building",
+  "name": "College of Business Administration",
   "latitude": 34.06130911314437, 
   "longitude": -117.81958725322221,
   "hasWater": true,
@@ -1227,12 +1227,12 @@
   "isBuilding": true,
   "tooltip": "Building 220C: Center for Training, Technology, and Incubation"
 },{
+  "Building": "220A",
   "name": "Innovation Brew Works",
   "latitude": 34.04983478593992,
   "longitude": -117.81484808777914,
   "hasDining": true,
-  "isBuilding": true,
-  "tooltip": "Innovation Brew Works"
+  "tooltip": "Innovation Brew Works (Building 220A)"
 },{
   "name": "Farm Store",
   "latitude": 34.04844803030882,
@@ -1847,4 +1847,137 @@
   "longitude": -117.82038745006581,
   "hasAthletics": true,
   "tooltip": "Tennis Courts"
+},{
+  "buildingNum": 164,
+  "name": "Element Coffee & Food",
+  "latitude": 34.061651648039344, 
+  "longitude": -117.82011876404705,
+  "hasDining": true,
+  "tooltip": "Element Coffee & Food (College of Business Administration)"
+},{
+  "buildingNum": 97,
+  "name": "Carl's Jr",
+  "latitude": 34.05778649790369,
+  "longitude": -117.82337239750498,
+  "hasDining": true,
+  "tooltip": "Carl's Jr (Campus Center)"
+},{
+  "buildingNum": 7,
+  "name": "EVN Cafe",
+  "latitude": 34.05754491170285, 
+  "longitude": -117.82746640371462,
+  "hasDining": true,
+  "tooltip": "ENV Cafe (College of Environmental Design)"
+},{
+  "buildingNum": "211A",
+  "name": "Farm Store",
+  "latitude": 34.04847477785426, 
+  "longitude": -117.81913794052522,
+  "hasDining": true,
+  "tooltip": "Farm Store (AGRIscapes"
+},{
+  "buildingNum": 7,
+  "name": "Fresh Escapes",
+  "latitude": 34.05777055452747, 
+  "longitude": -117.8235003921272,
+  "hasDining": true,
+  "tooltip": "Fresh Escapes (Campus Center)"
+},{
+  "buildingNum": 7,
+  "name": "International Grounds",
+  "latitude": 34.05773741431315, 
+  "longitude": -117.82353952406773,
+  "hasDining": true,
+  "tooltip": "International Grounds (Campus Center)"
+},{
+  "buildingNum": 42,
+  "name": "Jamba Juide - BRIC",
+  "latitude": 34.054376794599705, 
+  "longitude": -117.82034511517668,
+  "hasDining": true,
+  "tooltip": "Jamba Juide - BRIC"
+},{
+  "buildingNum": 7,
+  "name": "Jamba Juice Express",
+  "latitude": 34.05774747642032, 
+  "longitude": -117.82359377297497,
+  "hasDining": true,
+  "tooltip": "Jamba Juice Express (Campus Center)"
+},{
+  "buildingNum": 76,
+  "name": "Kellogg West Dining",
+  "latitude": 34.056705029116344, 
+  "longitude": -117.82488640768972,
+  "hasDining": true,
+  "tooltip": "Kellogg West Dining (Kellogg West Education)"
+},{
+  "buildingNum": 7,
+  "name": "Panda Express",
+  "latitude": 34.057641714101806, 
+  "longitude": -117.82368176011555,
+  "hasDining": true,
+  "tooltip": "Panda Express (Campus Center)"
+},{
+  "buildingNum": 35,
+  "name": "Poly Fresh Market",
+  "latitude": 34.05593000041582, 
+  "longitude": -117.82119427808819,
+  "hasDining": true,
+  "tooltip": "Poly Fresh Market (Bronco Student Center)"
+},{
+  "buildingNum": 164,
+  "name": "Pony Express - CBA",
+  "latitude": 34.06155515370872, 
+  "longitude": -117.82031126526138,
+  "hasDining": true,
+  "tooltip": "Pony Express (College of Business Administration"
+},{
+  "buildingNum": 7,
+  "name": "Pony Express - CCMP",
+  "latitude": 34.05766371512089, 
+  "longitude": -117.82370040045058,
+  "hasDining": true,
+  "tooltip": "Pony Express (Campus Center)"
+},{
+  "buildingNum": 98,
+  "name": "Pony Express - CLA",
+  "latitude": 34.059733448026854, 
+  "longitude": -117.81979245502905,
+  "hasDining": true,
+  "tooltip": "Pony Express (Classroom Laboratory/Administration"
+},{
+  "buildingNum": 35,
+  "name": "Qdoba",
+  "latitude": 34.056004193035335, 
+  "longitude": -117.82123092102994,
+  "hasDining": true,
+  "tooltip": "Qdoba (Bronco Student Center)"
+},{
+  "buildingNum": 79,
+  "name": "Restaurant at Kellogg Ranch",
+  "latitude": 34.05484074296317, 
+  "longitude": -117.82382739018784,
+  "hasDining": true,
+  "tooltip": "Restaurant at Kellogg Ranch (Building 79)"
+},{
+  "buildingNum": ,
+  "name": "Round Table Pizza",
+  "latitude": 34.056371012711985, 
+  "longitude": -117.82131303985403,
+  "hasDining": true,
+  "tooltip": "Round Table Pizza (Bronco Student Center)"
+},{
+  "buildingNum": 15,
+  "name": "Starbucks",
+  "latitude": 34.05758652856128, 
+  "longitude": -117.82146388294258,
+  "hasDining": true,
+  "tooltip": "Starbucks (Library)"
+},{
+  "buildingNum": 35,
+  "name": "Subway",
+  "latitude": 34.05573577849813, 
+  "longitude": -117.8210404970521,
+  "hasDining": true,
+  "tooltip": "Subway (Bronco Student Center)"
 }]

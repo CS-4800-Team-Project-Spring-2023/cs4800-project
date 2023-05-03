@@ -66,6 +66,7 @@ def map():
     handleMarkers(m, "Water Stations", "hasWater", "blue", "fa-tint")
     handleMarkers(m, "Bike Racks", "hasBikeRack", "green", "fa-bicycle")
     handleMarkers(m, "Printers", "hasPrinter", "black", "fa-print")
+    handleMarkers(m, "Computer Lab", "hasComputerLab", "lightgray", "fa-desktop")
     handleMarkers(m, "Vending Machines", "hasVending", "purple", "fa-building")
     handleMarkers(m, "ATMs", "hasATM", "gray", "fa-usd")
     handleMarkers(m, "Covid Test", "hasCovidTest", "red", "fa-medkit")

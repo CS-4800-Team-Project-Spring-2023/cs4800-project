@@ -412,6 +412,7 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasAthletics": true,
   "tooltip": "Building 41: Darlene May Gymnasium"
 },{
   "buildingNum": 42,
@@ -441,6 +442,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasSolarPanel": true,
+  "hasAthletics": true,
   "tooltip": "Building 43: Kellogg Arena"
 },{
   "buildingNum": 44,
@@ -1801,4 +1803,28 @@
   "longitude": -117.82374021576138,
   "hasOrientation": true,
   "tooltip": "University Quad"
+},{
+  "name": "Athletics",
+  "latitude": 34.0522026408592, 
+  "longitude": -117.81704819796082,
+  "hasAthletics": true,
+  "tooltip": "Kellogg Track and Field"
+},{
+  "name": "Athletics",
+  "latitude": 34.054080096901295, 
+  "longitude": -117.81603567711716,
+  "hasAthletics": true,
+  "tooltip": "Scolinos Baseball Field"
+},{
+  "name": "Athletics",
+  "latitude": 34.05300923957504, 
+  "longitude": -117.81859462384118,
+  "hasAthletics": true,
+  "tooltip": "Soccer Field"
+},{
+  "name": "Athletics",
+  "latitude": 34.05286242744165, 
+  "longitude": -117.82038745006581,
+  "hasAthletics": true,
+  "tooltip": "Tennis Courts"
 }]

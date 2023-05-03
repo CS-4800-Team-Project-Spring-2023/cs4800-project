@@ -2041,4 +2041,88 @@
   "longitude": -117.81866992767323,
   "isOpenSpace": true,
   "tooltip": "Voorhis Park"
+},{
+  "name": "Shuttle Stop (Building 7)",
+  "latitude": 34.057669168525315, 
+  "longitude": -117.82771059776984,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Building 7"
+},{
+  "name": "Shuttle Stop (Lot L)",
+  "latitude": 34.055891855849815, 
+  "longitude": -117.82504601145571,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Parking Lot M"
+},{
+  "name": "Shuttle Stop (Building 94)",
+  "latitude": 34.059457877299735, 
+  "longitude": -117.82359971471527,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Building 94"
+},{
+  "name": "Shuttle Stop (Building 58)",
+  "latitude": 34.06153769341358, 
+  "longitude": -117.82083504892883,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Building 58"
+},{
+  "name": "Shuttle Stop (Building 91)",
+  "latitude": 34.06162613534063, 
+  "longitude": -117.81864330374005,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Building 91"
+},{
+  "name": "Shuttle Stop (Parking Structure 1)",
+  "latitude": 34.060045367535196, 
+  "longitude": -117.8182681906968,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Parking Structure 1"
+},{
+  "name": "Shuttle Stop (Building 121)",
+  "latitude": 34.058396627600466, 
+  "longitude": -117.81827460937362,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Student Services Building"
+},{
+  "name": "Shuttle Stop (Building 89)",
+  "latitude": 34.06047949557737, 
+  "longitude": -117.81266767745058,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Parking Lot E2 & Building 89"
+},{
+  "name": "Shuttle Stop (Lot B)",
+  "latitude": 34.052881568914806, 
+  "longitude": -117.81563824327637,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop in Parking Lot B"
+},{
+  "name": "Shuttle Stop (S Campus Dr)",
+  "latitude": 34.049948534849875, 
+  "longitude": -117.81696992124007,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop near S Campus Dr and W Temple Ave"
+},{
+  "name": "Shuttle Stop (AGRIscapes)",
+  "latitude": 34.04839826741851, 
+  "longitude": -117.81994026692453,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by AGRIscapes and Farm Store"
+},{
+  "name": "Shuttle Stop (S University Dr 1)",
+  "latitude": 34.048565118221674, 
+  "longitude": -117.82089386177601,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by S University Dr and S Campus Dr"
+},{
+  "name": "Shuttle Stop (S University Dr 2)",
+  "latitude": 34.05030051543808,  
+  "longitude": -117.82067546228302,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by S University Dr and W Temple Ave"
+},{
+  "name": "Shuttle Stop (Parking Structure 2)",
+  "latitude": 34.05149005780445, 
+  "longitude": -117.8197947036797,
+  "hasShuttleStop": true,
+  "tooltip": "Shuttle Stop by Parking Structure 2"
 }]

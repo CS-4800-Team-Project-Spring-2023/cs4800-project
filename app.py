@@ -95,6 +95,7 @@ def map():
     handleMarkers(m, "Police and Parking Services", "isPolice", "darkpurple", "fa-bullhorn")
     handleMarkers(m, "Open Space", "isOpenSpace", "green", "fa-tree")
     handleMarkers(m, "Lactation Stations", "hasLactationStation", "pink", "fa-child")
+    handleMarkers(m, "Shuttle Stop", "hasShuttleStop", "cadetblue", "fa-bus")
 
     folium.LayerControl().add_to(m)
 

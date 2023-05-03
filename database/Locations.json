@@ -49,6 +49,7 @@
   "latitude": 34.05729509417733,
   "longitude": -117.82601181265747,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 4A: BioTrek Learning Center"
 },{
   "buildingNum": 5,
@@ -83,6 +84,7 @@
   "hasVending": false,
   "hasDining": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 7: College of Environmental Design"
 },{
   "buildingNum": 8,
@@ -179,7 +181,7 @@
   "name": "Agriculture Unit",
   "latitude": 34.055139829689324, 
   "longitude": -117.82844950279483,
-  "hasRestroom": true,
+  "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 30: Agriculture Unit"
 },{
@@ -194,7 +196,7 @@
   "name": "Beef Unit/Feed Shed",
   "latitude": 34.055467195134796, 
   "longitude": -117.82761635271783,
-  "hasRestroom": true,
+  "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 32: Beef Unit/Feed Shed"
 },{
@@ -279,6 +281,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 46: Health Services"
 },{
@@ -382,11 +385,32 @@
 },{
   "buildingNum": 76,
   "name": "Kellogg West Education/Dining",
-  "latitude": 34.0565860062174,
-  "longitude": "-117.82489027835202",
+  "latitude": 34.05668029132784, 
+  "longitude": -117.8247503454029,
   "hasDining": true,
   "isBuilding": true,
   "tooltip": "Building 76: Kellogg West Education/Dining"
+},{
+  "buildingNum": "76A",
+  "name": "Kellogg West/Addition",
+  "latitude": 34.056803752706685, 
+  "longitude": -117.82512289777827,
+  "isBuilding": true,
+  "tooltip": "Building 76A: Kellogg West/Addition"
+},{
+  "buildingNum": 77,
+  "name": "Kellogg West Main Lodge",
+  "latitude": 34.05628362450642, 
+  "longitude": -117.82597979327721,
+  "isBuilding": true,
+  "tooltip": "Building 77: Kellogg West Main Lodge"
+},{
+  "buildingNum": 78,
+  "name": "Kellogg West Addition",
+  "latitude": 34.056794394626216, 
+  "longitude": -117.82577906884957,
+  "isBuilding": true,
+  "tooltip": "Building 78: Kellogg West Addition"
 },{
   "buildingNum": 79,
   "name": "Collins College of Hospitality Management",
@@ -399,6 +423,27 @@
   "hasDining": true,
   "isBuilding": true,
   "tooltip": "Building 79: Collins College of Hospitality Management"
+},{
+  "buildingNum": "79A",
+  "name": "Collins College of Hospitality Management",
+  "latitude": 34.05511251873336, 
+  "longitude": -117.82482550456297,
+  "isBuilding": true,
+  "tooltip": "Building 79A: Collins College of Hospitality Management"
+},{
+  "buildingNum": "79B",
+  "name": "Collins College of Hospitality Management",
+  "latitude": 34.055311999302546, 
+  "longitude": -117.82445160815266,
+  "isBuilding": true,
+  "tooltip": "Building 79B: Collins College of Hospitality Management"
+},{
+  "buildingNum": 80,
+  "name": "Collins College of Hospitality Management",
+  "latitude": 34.054800683586734, 
+  "longitude": -117.82546982437026,
+  "isBuilding": true,
+  "tooltip": "Building 80: Collins College of Hospitality Management"
 },{
   "buildingNum": 89,
   "name": "Interim Design Center",
@@ -477,6 +522,14 @@
   "hasVending": false,
   "isBuilding": true,
   "tooltip": "College of Business Administration"
+},{
+  "buildingNum": 193,
+  "name": "Chilled Water Center Plant",
+  "latitude": 34.0571278904628, 
+  "longitude": -117.82955789976263,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 193: Chilled Water Center Plant"
 },{
   "name": "Innovation Brew Works",
   "latitude": 34.04983478593992,

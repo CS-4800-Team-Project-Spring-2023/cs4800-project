@@ -63,7 +63,6 @@ def map():
     m.get_root().height = "600px"
 
     handleMarkers(m, "Buildings", "isBuilding", "cadetblue", "fa-building")
-    handleMarkers(m, "Restrooms", "hasRestroom", "black", "fa-restroom")
     handleMarkers(m, "Water Stations", "hasWater", "blue", "fa-tint")
     handleMarkers(m, "Bike Racks", "hasBikeRack", "green", "fa-bicycle")
     handleMarkers(m, "Printers", "hasPrinter", "black", "fa-print")
@@ -81,6 +80,7 @@ def map():
     handleMarkers(m, "Faculty & Staff Parking", "hasFacultyParking", "lightgreen", "fa-parking")
     handleMarkers(m, "Visitor Only Parking", "hasVisitorParking", "lightred", "fa-car")
     handleMarkers(m, "Restricted Parking", "hasRestrictedParking", "black", "fa-parking")
+    handleMarkers(m, "Gender Inclusive Restrooms", "hasGenderInclusiveRestroom", "black", "fa-restroom")
 
     folium.LayerControl().add_to(m)
 

@@ -7,6 +7,7 @@
   "hasPrinter": true,
   "name": "Building One",
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 1: Building One"
 },{
   "buildingNum": 2,
@@ -17,6 +18,7 @@
   "hasBikeRack": true,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 2: Huntley College of Agriculture"
 },{
 
@@ -28,6 +30,7 @@
   "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 3: Science Laboratory"
 },{
   "buildingNum": 4,
@@ -38,12 +41,14 @@
   "hasBikeRack": false,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 4: Biotechnology Building"
 },{
   "buildingNum": "4A",
   "name": "BioTrek Learning Center", 
   "latitude": 34.05729509417733,
   "longitude": -117.82601181265747,
+  "isBuilding": true,
   "tooltip": "Building 4A: BioTrek Learning Center"
 },{
   "buildingNum": 5,
@@ -54,6 +59,7 @@
   "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": true, 
+  "isBuilding": true,
   "tooltip": "Building 5: College of Letters, Arts, and Social Sciences"
 },{
   "buildingNum": 6,
@@ -64,6 +70,7 @@
   "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 6: College of Education and Integrative Studies"
 },{
   "buildingNum": 7,
@@ -75,6 +82,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 7: College of Environmental Design"
 },{
   "buildingNum": 8,
@@ -85,6 +93,7 @@
   "hasBikeRack": true,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 8: College of Science"
 },{
   "buildingNum": 9,
@@ -95,6 +104,7 @@
   "hasBikeRack": true,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 9: College of Engineering"
 },{
   "buildingNum": 13,
@@ -105,6 +115,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 13: Art Departent and Engineering Annex"
 },{
   "buildingNum": 15,
@@ -117,6 +128,7 @@
   "hasVending": false,
   "hasDining": true,
   "hasLibraryReturn": true,
+  "isBuilding": true,
   "tooltip": "Building 15: Library"
 },{
   "buildingNum": 17,
@@ -127,6 +139,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 17: Engineering Laboratories"
 },{
   "buildingNum": 24,
@@ -137,6 +150,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 24: Music"
 },{
   "buildingNum": 25,
@@ -147,6 +161,7 @@
   "hasBikeRack": false,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 25: Drama Department/Theatre"
 },{
   "buildingNum": 26,
@@ -157,7 +172,45 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 26: University Plaza"
+},{
+  "buildingNum": 30,
+  "name": "Agriculture Unit",
+  "latitude": 34.055139829689324, 
+  "longitude": -117.82844950279483,
+  "hasRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 30: Agriculture Unit"
+},{
+  "buildingNum": 31,
+  "name": "Poultry Unit/Poultry Houses",
+  "latitude": 34.05471133748, 
+  "longitude": -117.82836425175286,
+  "isBuilding": true,
+  "tooltip": "Building 31: Poultry Unit/Poultry Houses"
+},{
+  "buildingNum": 32,
+  "name": "Beef Unit/Feed Shed",
+  "latitude": 34.055467195134796, 
+  "longitude": -117.82761635271783,
+  "hasRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 32: Beef Unit/Feed Shed"
+},{
+  "buildingNum": 33,
+  "name": "Feedmill",
+  "latitude": 34.05400924827144, 
+  "longitude": -117.82750604051658,
+  "isBuilding": true,
+  "tooltip": "Building 33: Feedmill"
+},{
+  "buildingNum": 34,
+  "name": "Meat Laboratory",
+  "latitude": 34.053943813036966,
+  "longitude": -117.82812554883252,
+  "isBuilding": true,
+  "tooltip": "Building 34: Meat Laboratory"
 },{
   "buildingNum": 35,
   "name": "Bronco Student Center",
@@ -170,6 +223,7 @@
   "hasATM": true,
   "hasCovidTest": true,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 35: Bronco Student Center"
 },{
   "buildingNum": 41,
@@ -180,6 +234,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 41: Darlene May Gymnasium"
 },{
   "buildingNum": 42,
@@ -191,6 +246,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
 },{
   "buildingNum": 43,
@@ -201,6 +257,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 43: Kellogg Arena"
 },{
   "buildingNum": 45,
@@ -211,6 +268,7 @@
   "hasBikeRack": false,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 45: Apparel Merchandising and Management"
 },{
   "buildingNum": 46,
@@ -221,6 +279,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 46: Health Services"
 },{
   "buildingNum": 52,
@@ -228,6 +287,7 @@
   "latitude": 34.0539815833845,
   "longitude": -117.81790044159106,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 52: Vista Market"
 },{
   "buildingNum": 54,
@@ -238,6 +298,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 54: Residence Suites"
 },{
   "buildingNum": 60,
@@ -248,6 +309,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 60: Residence Suites"
 },{
   "buildingNum": 61,
@@ -258,6 +320,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 61: Residence Suites"
 },{
   "buildingNum": 62,
@@ -268,6 +331,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 62: Residence Suites"
 },{
   "buildingNum": 63,
@@ -278,6 +342,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 63: Residence Suites"
 },{
   "buildingNum": 66,
@@ -289,13 +354,22 @@
   "hasPrinter": false,
   "hasVending": true,
   "hasLibraryReturn": true,
+  "isBuilding": true,
   "tooltip": "Building 66: Bronco Bookstore"
+},{
+  "buildingNum": 68,
+  "name": "Hay Barn",
+  "latitude": 34.054221064102016, 
+  "longitude": -117.82773845782378,
+  "isBuilding": true,
+  "tooltip": "Building 68: Hay Barn"
 },{
   "buildingNum": 72,
   "name": "Centerpointe Dining Commons",
   "latitude": 34.05655934016228,
   "longitude": -117.8189947829259,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
   "buildingNum": 74,
@@ -303,6 +377,7 @@
   "latitude": 34.056470469316906,
   "longitude": -117.81763222042268,
   "name": "Secoya Residence Hall",
+  "isBuilding": true,
   "tooltip": "Building 74: Secoya Hall"
 },{
   "buildingNum": 76,
@@ -310,6 +385,7 @@
   "latitude": 34.0565860062174,
   "longitude": "-117.82489027835202",
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 76: Kellogg West Education/Dining"
 },{
   "buildingNum": 79,
@@ -321,6 +397,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 79: Collins College of Hospitality Management"
 },{
   "buildingNum": 89,
@@ -331,6 +408,7 @@
   "hasBikeRack": false,
   "hasPrinter": true,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 89: Interim Design Center"
 },{
   "buildingNum": 92,
@@ -341,6 +419,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 92: Laboratory Facility"
 },{
   "buildingNum": 94,
@@ -351,6 +430,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 94: University Office Building"
 },{
   "buildingNum": 97,
@@ -362,6 +442,7 @@
   "hasPrinter": false,
   "hasVending": true,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Building 97: Campus Center"
 },{
   "buildingNum": 98,
@@ -372,6 +453,7 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
+  "isBuilding": true,
   "tooltip": "Building 98: Classroom/Laboratory/Adminstration (C/L/A)"
 },{
   "buildingNum": 121,
@@ -382,6 +464,7 @@
   "hasBikeRack": true,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
@@ -392,12 +475,14 @@
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
+  "isBuilding": true,
   "tooltip": "College of Business Administration"
 },{
   "name": "Innovation Brew Works",
   "latitude": 34.04983478593992,
   "longitude": -117.81484808777914,
   "hasDining": true,
+  "isBuilding": true,
   "tooltip": "Innovation Brew Works"
 },{
   "name": "Farm Store",

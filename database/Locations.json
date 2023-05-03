@@ -120,6 +120,27 @@
   "isBuilding": true,
   "tooltip": "Building 13: Art Departent and Engineering Annex"
 },{
+  "buildingNum": "13B",
+  "name": "Army ROTC",
+  "latitude": 34.05826028096033, 
+  "longitude": -117.82079432677742,
+  "isBuilding": true,
+  "tooltip": "Buidling 13B: Army ROTC"
+},{
+  "buildingNum": "13C",
+  "name": "Army ROTC",
+  "latitude": 34.0583699444645, 
+  "longitude": -117.82069711827145,
+  "isBuilding": true,
+  "tooltip": "Building 13C: Army ROTC"
+},{
+  "buildingNum": "13D",
+  "name": "Pre-College TRIO Programs",
+  "latitude": 34.058520731555284, 
+  "longitude": -117.82046857486816,
+  "isBuilding": true,
+  "tooltip": "Building 13D: Pre-College TRIO Programs"
+},{
   "buildingNum": 15,
   "name": "University Library",
   "latitude": 34.05779709607617,
@@ -131,6 +152,7 @@
   "hasDining": true,
   "hasLibraryReturn": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 15: Library"
 },{
   "buildingNum": 17,
@@ -185,10 +207,46 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 24: Music"
 },{
+  "buildingNum": "24A",
+  "name": "Temporary Classroom A",
+  "latitude": 34.05631533487707, 
+  "longitude": -117.82249144343265,
+  "isBuilding": true,
+  "tooltip": "Building 24A: Temporary Classroom A"
+},{
+  "buildingNum": "24B",
+  "name": "Temporary Classroom B",
+  "latitude": 34.0561859460208,  
+  "longitude": -117.82242018874527,
+  "isBuilding": true,
+  "tooltip": "Building 24B: Temporary Classroom B"
+},{
+  "buildingNum": "24C",
+  "name": "Temporary Classroom C",
+  "latitude": 34.05592878507837, 
+  "longitude": -117.82240457127956,
+  "isBuilding": true,
+  "tooltip": "Building 24C: Temporary Classroom C"
+},{
+  "buildingNum": "24D",
+  "name": "Temporary Classroom D",
+  "latitude": 34.05599590577585, 
+  "longitude": -117.82252853491377,
+  "isBuilding": true,
+  "tooltip": "Building 24D: Temporary Classroom D"
+},{
+  "buildingNum": "24E",
+  "name": "Temporary Classroom E",
+  "latitude": 34.05620535435936, 
+  "longitude": -117.82264371372428,
+  "isBuilding": true,
+  "tooltip": "Building 24E: Temporary Classroom E"
+},{
   "buildingNum": 25,
-  "name": "Drama Department/Teatre",
+  "name": "Drama Department/Theatre",
   "latitude": 34.056588244418926,
   "longitude": -117.82220806918072,
   "hasWater": true,
@@ -207,7 +265,15 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 26: University Plaza"
+},{
+  "buildingNum": "26A",
+  "name": "Student Orientation Center",
+  "latitude": 34.056800892480325, 
+  "longitude": -117.82058376798784,
+  "isBuilding": true,
+  "tooltip": "Building 26A: Student Orientation Center"
 },{
   "buildingNum": 28,
   "name": "Fruit/Crops Unit",
@@ -273,7 +339,31 @@
   "hasCovidTest": true,
   "hasDining": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 35: Bronco Student Center"
+},{
+  "buildingNum": "35A",
+  "name": "Keith and Janet Kellogg University Art Gallery",
+  "latitude": 34.05699040212694, 
+  "longitude": -117.82177215234837,
+  "isBuilding": true,
+  "tooltip": "Building 35A: W. Keith and Janet Kellogg University Art Gallery"
+},{
+  "buildingNum": 37,
+  "name": "Swine Unit/Shelters",
+  "latitude": 34.05224817387431, 
+  "longitude": -117.8229459558069,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 37: Swine Unit/Shelters"
+},{
+  "buildingNum": 38,
+  "name": "Sheep/Wool Unit",
+  "latitude": 34.05223316704217, 
+  "longitude": -117.82238258974208,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 38: Sheep/Wool Unit"
 },{
   "buildingNum": 41,
   "name": "Darlene May Gymnasium",
@@ -296,6 +386,7 @@
   "hasVending": false,
   "hasDining": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
 },{
   "buildingNum": 43,
@@ -309,6 +400,13 @@
   "isBuilding": true,
   "tooltip": "Building 43: Kellogg Arena"
 },{
+  "buildingNum": 44,
+  "name": "Swimming Pool",
+  "latitude": 34.05380299365672, 
+  "longitude": -117.82042361760325,
+  "isBuilding": true,
+  "tooltip": "Building 44: Swimming Pool"
+},{
   "buildingNum": 45,
   "name": "Apparel Merchandising and Management",
   "latitude": 34.0610067927331,
@@ -318,6 +416,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 45: Apparel Merchandising and Management"
 },{
   "buildingNum": 46,
@@ -332,12 +431,34 @@
   "isBuilding": true,
   "tooltip": "Building 46: Health Services"
 },{
+  "buildingNum": 47,
+  "name": "Agricultural Engineering Tractor Shop",
+  "latitude": 34.059846540140725, 
+  "longitude": -117.80820350747594,
+  "isBuilding": true,
+  "tooltip": "Building 47: Agricultural Engineering Tractor Shop"
+},{
+  "buildingNum": 48,
+  "name": "Custodial Offices",
+  "latitude": 34.05905231101651, 
+  "longitude": -117.80846287769926,
+  "isBuilding": true,
+  "tooltip": "Building 48: Custodial Offices"
+},{
+  "buildingNum": 49,
+  "name": "Building 49: Training Center",
+  "latitude": 34.05992226860877, 
+  "longitude": -117.80929095542035,
+  "isBuilding": true,
+  "tooltip": "Buidling 49: Trainig Center"
+},{
   "buildingNum": 52,
   "name": "Vista Market",
   "latitude": 34.0539815833845,
   "longitude": -117.81790044159106,
   "hasDining": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 52: Vista Market"
 },{
   "buildingNum": 54,
@@ -349,7 +470,22 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 54: Residence Suites"
+},{
+  "buildingNum": 55,
+  "name": "Foundation Administration Offices",
+  "latitude": 34.05623928656836, 
+  "longitude": -117.8199740275783,
+  "isBuilding": true,
+  "tooltip": "Building 55: Foundation Administration Offices"
+},{
+  "buildingNum": 56,
+  "name": "Storage Building",
+  "latitude": 34.06193457174179, 
+  "longitude": -117.81092329905493,
+  "isBuilding": true,
+  "tooltip": "Building 56: Storage Building"
 },{
   "buildingNum": 57,
   "name": "Residence Hall, Palmitas",
@@ -373,7 +509,7 @@
   "tooltip": "Building 59: La Cienega Center (University Housing Services)"
 },{
   "buildingNum": 60,
-  "name": "Building 60: Residence Suites",
+  "name": "Residence Suites",
   "latitude": 34.05497048944589,
   "longitude": -117.81845297642377,
   "hasWater": true,
@@ -381,10 +517,11 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 60: Residence Suites"
 },{
   "buildingNum": 61,
-  "name": "Building 61: Residence Suites",
+  "name": "Residence Suites",
   "latitude": 34.0546593791974,
   "longitude": -117.81784679715494,
   "hasWater": true,
@@ -392,10 +529,11 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 61: Residence Suites"
 },{
   "buildingNum": 62,
-  "name": "Building 62: Residence Suites",
+  "name": "Residence Suites",
   "latitude": 34.05451715698273,
   "longitude": -117.81724061791788,
   "hasWater": true,
@@ -403,10 +541,11 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 62: Residence Suites"
 },{
   "buildingNum": 63,
-  "name": "Building 63: Residence Suites",
+  "name": "Residence Suites",
   "latitude": 34.05366381872284,
   "longitude": -117.81706895653201,
   "hasWater": true,
@@ -414,7 +553,22 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 63: Residence Suites"
+},{
+  "buildingNum": 64,
+  "name": "Rose Float Laboratory",
+  "latitude": 34.060194693020264, 
+  "longitude": -117.80825932132167,
+  "isBuilding": true,
+  "tooltip": "Building 64: Rose Float Laboratory"
+},{
+  "buildingNum": 65,
+  "name": "Pesticide Building",
+  "latitude": 34.06165591036408, 
+  "longitude": -117.81078246821376,
+  "isBuilding": true,
+  "tooltip": "Building 65: Pesticide Building"
 },{
   "buildingNum": 66,
   "name": "Bronco Bookstore",
@@ -458,13 +612,27 @@
   "isBuilding": true,
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
+  "buildingNum": 73,
+  "name": "Sicomoro Hall",
+  "latitude": 34.056250166835206, 
+  "longitude": -117.81841780612548,
+  "isBuilding": true,
+  "tooltip": "Building 73: Residence Suites, Sicomoro Hall"
+},{
   "buildingNum": 74,
   "hasCovidTest": true,
   "latitude": 34.056470469316906,
   "longitude": -117.81763222042268,
-  "name": "Secoya Residence Hall",
+  "name": "Residence Suites",
   "isBuilding": true,
-  "tooltip": "Building 74: Secoya Hall"
+  "tooltip": "Building 74: Residence Suites, Secoya Hall"
+},{
+  "buildingNum": 75,
+  "name": "Procurement/Receiving",
+  "latitude": 34.059626223907756, 
+  "longitude": -117.80786862440145,
+  "isBuilding": true,
+  "tooltip": "Bduilding 75: Procurement/Receiving"
 },{
   "buildingNum": 76,
   "name": "Kellogg West Education/Dining",
@@ -528,6 +696,76 @@
   "isBuilding": true,
   "tooltip": "Building 80: Collins College of Hospitality Management"
 },{
+  "buildingNum": 81,
+  "name": "Facilities Management",
+  "latitude": 34.059468466251914, 
+  "longitude": -117.80877149543737,
+  "isBuilding": true,
+  "tooltip": "Building 81: Facilities Management"
+},{
+  "buildingNum": "81A",
+  "name": "Environmental Health and Safety",
+  "latitude": 34.05876399312877, 
+  "longitude": -117.80893565380443,
+  "isBuilding": true,
+  "tooltip": "Building 81A: Environmental Health and Safey"
+},{
+  "buildingNum": 82,
+  "name": "Facilities Management Warehouse",
+  "latitude": 34.05981390073356, 
+  "longitude": -117.80867300041547,
+  "isBuilding": true,
+  "tooltip": "Building 82: Facilities Management Warehouse"
+},{
+  "buildingNum": "82A",
+  "name": "Carpenter Shop",
+  "latitude": 34.05996893779906, 
+  "longitude": -117.80883715878532,
+  "isBuilding": true,
+  "tooltip": "Building 82A: Carpenter Shop"
+},{
+  "buildingNum": 83,
+  "name": "Auto Shop",
+  "latitude": 34.059424946848665, 
+  "longitude": -117.80812142829102,
+  "isBuilding": true,
+  "tooltip": "Building 83: Auto Shop"
+},{
+  "buildingNum": 85,
+  "name": "I-Poly High School",
+  "latitude": 34.05098627682375, 
+  "longitude": -117.81952443703798,
+  "isBuilding": true,
+  "tooltip": "Building 85: I-Poly High School"
+},{
+  "buildingNum": 86,
+  "name": "English Language Institute",
+  "latitude": 34.05337656319663, 
+  "longitude": -117.81971859059081,
+  "isBuilding": true,
+  "tooltip": "Building 86: English Language Institute"
+},{
+  "buildingNum": "86A",
+  "name": "English Language Institute",
+  "latitude": 34.053239261195095, 
+  "longitude": -117.82000061734712,
+  "isBuilding": true,
+  "tooltip": "Building 86A: English Language Institute"
+},{
+  "buildingNum": "86B",
+  "name": "English Language Institute",
+  "latitude": 34.05351613910879, 
+  "longitude": -117.82009394836399,
+  "isBuilding": true,
+  "tooltip": "Building 86B: English Language Institute"
+},{
+  "buildingNum": "86C",
+  "name": "English Language Institute",
+  "latitude": 34.05335275630513, 
+  "longitude": -117.8201857740419,
+  "isBuilding": true,
+  "tooltip": "Building 86C: English Language Institute"
+},{
   "buildingNum": 89,
   "name": "Interim Design Center",
   "latitude": 34.06069969392488,
@@ -567,8 +805,7 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 91: Information Technology & Institutional Planning"
-}
-,{
+},{
   "buildingNum": 92,
   "name": "Laboratory Facility",
   "latitude": 34.057774874633935,
@@ -614,14 +851,42 @@
 },{
   "buildingNum": 98,
   "name": "Classroom/Laboratory/Administration (C/L/A)",
-  "latitude": 34.059934765783716,
-  "longitude": -117.81992819153363,
+  "latitude": 34.05990960795424, 
+  "longitude": -117.81981067770354,
   "hasWater": true,
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
   "tooltip": "Building 98: Classroom/Laboratory/Adminstration (C/L/A)"
+},{
+  "buildingNum": "98C",
+  "name": "CLA Classrooms",
+  "latitude": 34.059860600688765, 
+  "longitude": -117.81940823456777,
+  "isBuilding": true,
+  "tooltip": "Building 98C: CLA Classrooms"
+},{
+  "buildingNum": "98P",
+  "name": "CLA Paseo",
+  "latitude": 34.06010476853508, 
+  "longitude": -117.81958610545216,
+  "isBuilding": true,
+  "tooltip": "Building 98P: CLA Paseo"
+},{
+  "buildingNum": 99,
+  "name": "Storage Building",
+  "latitude": 34.06184333830117, 
+  "longitude": -117.81103387043244,
+  "isBuilding": true,
+  "tooltip": "Building 99: Storage Building"
+},{
+  "buildingNum": 100,
+  "name": "Storage Building",
+  "latitude": 34.06203019966337, 
+  "longitude": -117.81081636307883,
+  "isBuilding": true,
+  "tooltip": "Building 100: Storage Building"
 },{
   "buildingNum": 109,
   "name": "Police and Parking Services",
@@ -652,6 +917,13 @@
   "isBuilding": true,
   "tooltip": "Building 113: Guest House"
 },{
+  "buildingNum": 116,
+  "name": "Child Care Center",
+  "latitude": 34.05610872330981, 
+  "longitude": -117.81951438410766,
+  "isBuilding": true,
+  "tooltip": "Building 116: Child Care Center"
+},{
   "buildingNum": 121,
   "name": "Student Services Building",
   "latitude": 34.058170414392315,
@@ -661,6 +933,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
@@ -696,6 +969,133 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 193: Chilled Water Center Plant"
+},{
+  "buildingNum": 208,
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.050046313667984, 
+  "longitude": -117.82281806167212,
+  "isBuilding": true,
+  "tooltip": "Building 208: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": "209C",
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.04971331719578, 
+  "longitude": -117.82413859834449,
+  "isBuilding": true,
+  "tooltip": "Building 209C: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": 209,
+  "name": "Center for Regenerative Studies",
+  "latitude": 34.049629654769674, 
+  "longitude": -117.82453772731004,
+  "isBuilding": true,
+  "tooltip": "Building 209: Center for Regenerative Studies"
+},{
+  "buildingNum": "209L",
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.049700289740905, 
+  "longitude": -117.82440985073917,
+  "isBuilding": true,
+  "tooltip": "Buiding 209L: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": "209R",
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.049382431900774, 
+  "longitude": -117.82471249195731,
+  "isBuilding": true,
+  "tooltip": "Building 209R: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": "209S",
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.04962847751874, 
+  "longitude": -117.82477500939234,
+  "isBuilding": true,
+  "tooltip": "Building 209S: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": "209W",
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.04982154630431, 
+  "longitude": -117.82449083923406,
+  "isBuilding": true,
+  "tooltip": "Building 209W: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": 210,
+  "name": "John T. Lyle Center for Regenerative Studies",
+  "latitude": 34.04969642067242, 
+  "longitude": -117.82163912916873,
+  "isBuilding": true,
+  "tooltip": "Building 210: John T. Lyle Center for Regenerative Studies"
+},{
+  "buildingNum": 211,
+  "name": "AGRIscapes/Farm Store",
+  "latitude": 34.0482473448504, 
+  "longitude": -117.81933761325122,
+  "isBuilding": true,
+  "tooltip": "Building 211: AGRIscapes/Farm Store"
+},{
+  "buildingNum": "211A",
+  "name": "AGRIscapes",
+  "latitude": 34.04842556198457, 
+  "longitude": -117.81921147694435,
+  "isBuilding": true,
+  "tooltip": "AGRIscapes"
+},{
+  "buildingNum": 215,
+  "name": "Edison SCE2",
+  "latitude": 34.051901117005464, 
+  "longitude": -117.81096168264973,
+  "isBuilding": true,
+  "tooltip": "Building 215: Edison SCE2"
+},{
+  "buildingNum": 216,
+  "name": "Innovation Village SCE",
+  "latitude": 34.05114615166006, 
+  "longitude": -117.81389378044462,
+  "isBuilding": true,
+  "tooltip": "Building 216: "
+},{
+  "buildingNum": 218,
+  "name": "American Red Cross Headquarters",
+  "latitude": 34.053799712900165, 
+  "longitude": -117.81164734243882,
+  "isBuilding": true,
+  "tooltip": "Building 218: American Red Cross Headquarters"
+},{
+  "buildingNum": 219,
+  "name": "Edison SCE1",
+  "latitude": 34.05265607558341, 
+  "longitude": -117.81322616432163,
+  "isBuilding": true,
+  "tooltip": "Building 219: Edison SCE1"
+},{
+  "buildingNum": 200,
+  "name": "University Village",
+  "latitude": 34.04852411299446, 
+  "longitude": -117.81493179396297,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 200: University Village"
+},{
+  "buildingNum": "220A",
+  "name": "Center for Training, Technology, and Incubation",
+  "latitude": 34.050001869532814, 
+  "longitude": -117.81519761825807,
+  "isBuilding": true,
+  "tooltip": "Building 220A: Center for Training, Technology, and Incubation"
+},{
+  "buildingNum": "220B",
+  "name": "Center for Training, Technology, and Incubation",
+  "latitude": 34.050441504622995, 
+  "longitude": -117.81529167865814,
+  "isBuilding": true,
+  "tooltip": "Building 220B: Center for Training, Technology, and Incubation"
+},{
+  "buildingNum": "220C",
+  "name": "Center for Training, Technology, and Incubation",
+  "latitude": 34.05023997830559, 
+  "longitude": -117.81479207334466,
+  "isBuilding": true,
+  "tooltip": "Building 220C: Center for Training, Technology, and Incubation"
 },{
   "name": "Innovation Brew Works",
   "latitude": 34.04983478593992,

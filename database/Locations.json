@@ -50,6 +50,7 @@
   "longitude": -117.82601181265747,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasNaturalEnvironment": true,
   "tooltip": "Building 4A: BioTrek Learning Center"
 },{
   "buildingNum": 5,
@@ -286,8 +287,10 @@
   "name": "W.K. Kellogg Arabian Horse Center",
   "latitude": 34.05872161518149, 
   "longitude": -117.81474023668663,
+  "hasWater": true,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "hasNaturalEnvironment": true,
   "tooltip": "Building 29: W.K. Kellogg Arabian Horse Center"
 },{
   "buildingNum": 30,
@@ -451,6 +454,7 @@
   "name": "Building 49: Training Center",
   "latitude": 34.05992226860877, 
   "longitude": -117.80929095542035,
+  "hasWater": true,
   "isBuilding": true,
   "tooltip": "Buidling 49: Trainig Center"
 },{
@@ -641,6 +645,7 @@
   "name": "Procurement/Receiving",
   "latitude": 34.059626223907756, 
   "longitude": -117.80786862440145,
+  "hasWater": true,
   "isBuilding": true,
   "tooltip": "Bduilding 75: Procurement/Receiving"
 },{
@@ -696,6 +701,7 @@
   "name": "Collins College of Hospitality Management",
   "latitude": 34.055311999302546, 
   "longitude": -117.82445160815266,
+  "hasWater": true,
   "isBuilding": true,
   "tooltip": "Building 79B: Collins College of Hospitality Management"
 },{
@@ -703,6 +709,7 @@
   "name": "Collins College of Hospitality Management",
   "latitude": 34.054800683586734, 
   "longitude": -117.82546982437026,
+  "hasWater": true,
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
   "tooltip": "Building 80: Collins College of Hospitality Management"
@@ -711,6 +718,7 @@
   "name": "Facilities Management",
   "latitude": 34.059468466251914, 
   "longitude": -117.80877149543737,
+  "hasWater": true,
   "isBuilding": true,
   "tooltip": "Building 81: Facilities Management"
 },{
@@ -725,6 +733,7 @@
   "name": "Facilities Management Warehouse",
   "latitude": 34.05981390073356, 
   "longitude": -117.80867300041547,
+  "hasWater": true,
   "isBuilding": true,
   "tooltip": "Building 82: Facilities Management Warehouse"
 },{
@@ -740,6 +749,7 @@
   "latitude": 34.059424946848665, 
   "longitude": -117.80812142829102,
   "isBuilding": true,
+  "hasWater": true,
   "tooltip": "Building 83: Auto Shop"
 },{
   "buildingNum": 85,
@@ -747,6 +757,7 @@
   "latitude": 34.05098627682375, 
   "longitude": -117.81952443703798,
   "isBuilding": true,
+  "hasWater": true,
   "isLeedCertifiedBuilding": true,
   "tooltip": "Building 85: I-Poly High School"
 },{
@@ -848,6 +859,14 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "tooltip": "Building 95: Cultural Centers"
+},{
+  "buildingNum": 96,
+  "name": "Paint Shop",
+  "latitude": 34.059650234870176, 
+  "longitude": -117.8085409189076,
+  "isBuilding": true,
+  "hasWater": true,
+  "tooltip": "Building 96: Paint Shop"
 },{
   "buildingNum": 97,
   "name": "Campus Center",
@@ -966,6 +985,7 @@
   "latitude": 34.06127578245078, 
   "longitude": -117.82021757233515,
   "isBuilding": true,
+  "hasWater": true,
   "isLeedCertifiedBuilding": true,
   "tooltip": "Building 163: College of Business Administration"
 },{
@@ -975,6 +995,7 @@
   "longitude": -117.81978841889544,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "hasWater": true,
   "isLeedCertifiedBuilding": true,
   "tooltip": "Building 164: College of Business Administration"
 },{
@@ -994,19 +1015,21 @@
   "hasSolarPanel": true,
   "tooltip": "Building 208: John T. Lyle Center for Regenerative Studies"
 },{
+  "buildingNum": 209,
+  "name": "Center for Regenerative Studies",
+  "latitude": 34.049629654769674, 
+  "longitude": -117.82453772731004,
+  "isBuilding": true,
+  "hasWater": true,
+  "hasNaturalEnvironment": true,
+  "tooltip": "Building 209: Center for Regenerative Studies"
+},{
   "buildingNum": "209C",
   "name": "John T. Lyle Center for Regenerative Studies",
   "latitude": 34.04971331719578, 
   "longitude": -117.82413859834449,
   "isBuilding": true,
   "tooltip": "Building 209C: John T. Lyle Center for Regenerative Studies"
-},{
-  "buildingNum": 209,
-  "name": "Center for Regenerative Studies",
-  "latitude": 34.049629654769674, 
-  "longitude": -117.82453772731004,
-  "isBuilding": true,
-  "tooltip": "Building 209: Center for Regenerative Studies"
 },{
   "buildingNum": "209L",
   "name": "John T. Lyle Center for Regenerative Studies",
@@ -1048,6 +1071,7 @@
   "latitude": 34.0482473448504, 
   "longitude": -117.81933761325122,
   "isBuilding": true,
+  "hasWater": true,
   "tooltip": "Building 211: AGRIscapes/Farm Store"
 },{
   "buildingNum": "211A",
@@ -1055,6 +1079,7 @@
   "latitude": 34.04842556198457, 
   "longitude": -117.81921147694435,
   "isBuilding": true,
+  "hasNaturalEnvironment": true,
   "tooltip": "Building 211A: AGRIscapes"
 },{
   "buildingNum": 215,
@@ -1656,5 +1681,36 @@
   "latitude": 34.05963566556445, 
   "longitude": -117.82482143080802,
   "hasSolarUmbrella": true,
+  "hasNaturalEnvironment": true,
   "tooltip": "Project Blue Solar Umbrella"
+},{
+  "name": "Natural Environment",
+  "latitude": 34.05716957103719, 
+  "longitude": -117.82648628244678,
+  "hasNaturalEnvironment": true,
+  "tooltip": "BioTrek Ethnobotany Garden"
+},{
+  "name": "Natural Environment",
+  "latitude": 34.058155486910834, 
+  "longitude": -117.82634011617674,
+  "hasNaturalEnvironment": true,
+  "tooltip": "Mesozoic Garden"
+},{
+  "name": "Natural Environment",
+  "latitude": 34.06030301554046, 
+  "longitude": -117.82914792043347,
+  "hasNaturalEnvironment": true,
+  "tooltip": "Voorhis Ecological Reserve"
+},{
+  "name": "Natural Environment",
+  "latitude": 34.05994709588216, 
+  "longitude": -117.82044355709502,
+  "hasNaturalEnvironment": true,
+  "tooltip": "Aratani Japanese Garden"
+},{
+  "name": "Natural Environment",
+  "latitude": 34.06085294914276, 
+  "longitude": -117.82038220205011,
+  "hasNaturalEnvironment": true,
+  "tooltip": "Rose Garden"
 }]

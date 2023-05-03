@@ -90,9 +90,9 @@ def map():
     handleMarkers(m, "Automatic Power Door", "hasAutoPowerDoor", "blue", "fa-wheelchair")
     handleMarkers(m, "Powered Door Button", "hasPwrDoorBtn", "purple", "fa-wheelchair")
     handleMarkers(m, "Elevator", "hasElevator", "red", "fa-elevator")
-    handleMarkers(m, "Athletics", "hasAthletics", "gray", "fa-soccer-ball-o")
-    handleMarkers(m, "Residence", "isResidence", "darkred", "fa-buiding")
-    handleMarkers(m, "Police and Parking Services", "isPolice", "darkpurple", "fa-user-police")
+    handleMarkers(m, "Athletics", "hasAthletics", "gray", "fa-life-ring")
+    handleMarkers(m, "Residence", "isResidence", "darkred", "fa-building")
+    handleMarkers(m, "Police and Parking Services", "isPolice", "darkpurple", "fa-bullhorn")
     handleMarkers(m, "Open Space", "isOpenSpace", "green", "fa-tree")
 
     folium.LayerControl().add_to(m)

@@ -92,7 +92,7 @@
   "tooltip": "Building 6: College of Education and Integrative Studies"
 },{
   "buildingNum": 7,
-  "name": "College of Environmental Design ",
+  "name": "College of Environmental Design",
   "latitude": 34.05754377196932,
   "longitude": -117.82732572407939,
   "hasWater": true,
@@ -226,7 +226,7 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "isResidence": true,
-  "tooltip": "Building 21:  "
+  "tooltip": "Building 21:  Residence Hall, Monecito"
 },{
   "buildingNum": 22,
   "name": "Residence Hall, Alamitos",
@@ -581,7 +581,7 @@
   "tooltip": "Building 59: La Cienega Center (University Housing Services)"
 },{
   "buildingNum": 60,
-  "name": "Residence Suites",
+  "name": "Residence Suites 60",
   "latitude": 34.05497048944589,
   "longitude": -117.81845297642377,
   "hasWater": true,
@@ -595,7 +595,7 @@
   "tooltip": "Building 60: Residence Suites"
 },{
   "buildingNum": 61,
-  "name": "Residence Suites",
+  "name": "Residence Suites 61",
   "latitude": 34.0546593791974,
   "longitude": -117.81784679715494,
   "hasWater": true,
@@ -609,7 +609,7 @@
   "tooltip": "Building 61: Residence Suites"
 },{
   "buildingNum": 62,
-  "name": "Residence Suites",
+  "name": "Residence Suites 62",
   "latitude": 34.05451715698273,
   "longitude": -117.81724061791788,
   "hasWater": true,
@@ -623,7 +623,7 @@
   "tooltip": "Building 62: Residence Suites"
 },{
   "buildingNum": 63,
-  "name": "Residence Suites",
+  "name": "Residence Suites 63",
   "latitude": 34.05366381872284,
   "longitude": -117.81706895653201,
   "hasWater": true,
@@ -699,7 +699,7 @@
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
   "buildingNum": 73,
-  "name": "Sicomoro Hall",
+  "name": "Residence Suites, Sicomoro Hall",
   "latitude": 34.056250166835206, 
   "longitude": -117.81841780612548,
   "isBuilding": true,
@@ -1015,6 +1015,7 @@
   "isBuilding": true,
   "hasPwrDoorBtn": true,
   "hasElevator": true,
+  "isPolice": true,
   "tooltip": "Building 109: Police and Parking Services"
 },{
   "buildingNum": 111,
@@ -1071,7 +1072,7 @@
   "hasVending": false,
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
-  "tooltip": "College of Business Administration"
+  "tooltip": "Building 162: College of Business Administration"
 },{
   "buildingNum": 163,
   "name": "College of Business Administration",
@@ -1784,40 +1785,45 @@
   "hasNaturalEnvironment": true,
   "tooltip": "Project Blue Solar Umbrella"
 },{
-  "name": "Natural Environment",
+  "name": "BioTrek Ethnobotany Garden",
   "latitude": 34.05716957103719, 
   "longitude": -117.82648628244678,
   "hasNaturalEnvironment": true,
+  "isOpenSpace": true,
   "tooltip": "BioTrek Ethnobotany Garden"
 },{
-  "name": "Natural Environment",
+  "name": "Mesozoic Garden",
   "latitude": 34.058155486910834, 
   "longitude": -117.82634011617674,
   "hasNaturalEnvironment": true,
   "tooltip": "Mesozoic Garden"
 },{
-  "name": "Natural Environment",
+  "name": "Voorhis Ecological Reserve",
   "latitude": 34.06030301554046, 
   "longitude": -117.82914792043347,
   "hasNaturalEnvironment": true,
+  "isOpenSpace": true,
   "tooltip": "Voorhis Ecological Reserve"
 },{
-  "name": "Natural Environment",
+  "name": "Aratani Japanese Garden",
   "latitude": 34.05994709588216, 
   "longitude": -117.82044355709502,
   "hasNaturalEnvironment": true,
+  "isOpenSpace": true,
   "tooltip": "Aratani Japanese Garden"
 },{
-  "name": "Natural Environment",
+  "name": "Rose Garden",
   "latitude": 34.06085294914276, 
   "longitude": -117.82038220205011,
   "hasNaturalEnvironment": true,
+  "isOpenSpace": true,
   "tooltip": "Rose Garden"
 },{
-  "name": "New Student Orientation",
+  "name": "Bronco Commons",
   "latitude": 34.05504064487435, 
   "longitude": -117.8201818549635,
   "hasOrientation": true,
+  "isOpenSpace": true,
   "tooltip": "Bronco Commons"
 },{
   "name": "New Student Orientation",
@@ -1826,40 +1832,46 @@
   "hasOrientation": true,
   "tooltip": "Housing Tours"
 },{
-  "name": "New Student Orientation",
+  "name": "University Park",
   "latitude": 34.056916443651154, 
   "longitude": -117.8209927963857,
   "hasOrientation": true,
+  "isOpenSpace": true,
   "tooltip": "University Park (Check-In & Campus Tours)"
 },{
-  "name": "New Student Orientation",
+  "name": "University Quad",
   "latitude": 34.058571811720725, 
   "longitude": -117.82374021576138,
   "hasOrientation": true,
+  "isOpenSpace": true,
   "tooltip": "University Quad"
 },{
-  "name": "Athletics",
+  "name": "Kellogg Track and Field",
   "latitude": 34.0522026408592, 
   "longitude": -117.81704819796082,
   "hasAthletics": true,
+  "isOpenSpace": true,
   "tooltip": "Kellogg Track and Field"
 },{
-  "name": "Athletics",
+  "name": "Scolinos Baseball Field",
   "latitude": 34.054080096901295, 
   "longitude": -117.81603567711716,
   "hasAthletics": true,
+  "isOpenSpace": true,
   "tooltip": "Scolinos Baseball Field"
 },{
-  "name": "Athletics",
+  "name": "Soccer Field",
   "latitude": 34.05300923957504, 
   "longitude": -117.81859462384118,
   "hasAthletics": true,
+  "isOpenSpace": true,
   "tooltip": "Soccer Field"
 },{
-  "name": "Athletics",
+  "name": "Tennis Courts",
   "latitude": 34.05286242744165, 
   "longitude": -117.82038745006581,
   "hasAthletics": true,
+  "isOpenSpace": true,
   "tooltip": "Tennis Courts"
 },{
   "buildingNum": 164,
@@ -1877,7 +1889,7 @@
   "tooltip": "Carl's Jr (Campus Center)"
 },{
   "buildingNum": 7,
-  "name": "EVN Cafe",
+  "name": "ENV Cafe",
   "latitude": 34.05754491170285, 
   "longitude": -117.82746640371462,
   "hasDining": true,
@@ -1974,7 +1986,7 @@
   "hasDining": true,
   "tooltip": "Restaurant at Kellogg Ranch (Building 79)"
 },{
-  "buildingNum": ,
+  "buildingNum": 35,
   "name": "Round Table Pizza",
   "latitude": 34.056371012711985, 
   "longitude": -117.82131303985403,
@@ -1994,4 +2006,34 @@
   "longitude": -117.8210404970521,
   "hasDining": true,
   "tooltip": "Subway (Bronco Student Center)"
+},{
+  "name": "AGRIsacpes Pumpkin Field",
+  "latitude": 34.049755003055054, 
+  "longitude": -117.81876126348098,
+  "isOpenSpace": true,
+  "tooltip": "AGRIsacpes Pumpkin Field"
+},{
+  "name": "Engineering Meadow (Open Space)",
+  "latitude": 34.05916149133551, 
+  "longitude": -117.82139092094542,
+  "isOpenSpace": true,
+  "tooltip": "Engineering Meadow"
+},{
+  "name": "Outdoor Basketball Court",
+  "latitude": 34.06261706958452, 
+  "longitude": -117.81979383393661,
+  "isOpenSpace": true,
+  "tooltip": "Outdoor Basketball Court"
+},{
+  "name": "Spadra Farm",
+  "latitude": 34.04296753822598, 
+  "longitude": -117.8147634596939,
+  "isOpenSpace": true,
+  "tooltip": "Spadra Farm"
+},{
+  "name": "Voorhis Park",
+  "latitude": 34.059907313568175, 
+  "longitude": -117.81866992767323,
+  "isOpenSpace": true,
+  "tooltip": "Voorhis Park"
 }]

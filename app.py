@@ -93,6 +93,7 @@ def map():
     handleMarkers(m, "Athletics", "hasAthletics", "gray", "fa-soccer-ball-o")
     handleMarkers(m, "Residence", "isResidence", "darkred", "fa-buiding")
     handleMarkers(m, "Police and Parking Services", "isPolice", "darkpurple", "fa-user-police")
+    handleMarkers(m, "Open Space", "isOpenSpace", "green", "fa-tree")
 
     folium.LayerControl().add_to(m)
 

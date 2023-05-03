@@ -59,7 +59,7 @@ def handleMarkers(m, name, resourceVar, color, icon):
 def map():
     m = folium.Map(location=[34.05577715605838, -117.81930591750536], zoom_start=18)
 
-    m.get_root().width = "800px"
+    m.get_root().width = "1300px"
     m.get_root().height = "600px"
 
     handleMarkers(m, "Buildings", "isBuilding", "cadetblue", "fa-building")

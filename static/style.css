@@ -4383,11 +4383,6 @@
 	object-fit: cover;
 	object-position: center;
   }
-
-  .swiper-pagination-bullet{
-	height: 20px;
-	width: 26px;
-  }
   
   .card {
 	position: relative;
@@ -4434,6 +4429,11 @@
   .card-body .card-text{
 	font-size: 12px;
 	font-weight: 600;
+  }
+
+  .card-body .card-info{
+	position: relative;
+	bottom: -10px;
   }
   
   @media (min-width: 576px) {

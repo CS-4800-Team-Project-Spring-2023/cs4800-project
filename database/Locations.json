@@ -496,6 +496,7 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasLactationStation": true,
   "tooltip": "Building 46: Health Services"
 },{
   "buildingNum": 47,
@@ -663,6 +664,7 @@
   "hasOrientation": true,
   "hasPwrDoorBtn": true,
   "hasElevator": true,
+  "hasLactationStation": true,
   "tooltip": "Building 66: Bronco Bookstore"
 },{
   "buildingNum": 68,
@@ -769,6 +771,7 @@
   "hasDining": true,
   "isBuilding": true,
   "hasComputerLab": true,
+  "hasLactationStation": true,
   "tooltip": "Building 79: Collins College of Hospitality Management"
 },{
   "buildingNum": "79A",
@@ -944,6 +947,7 @@
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
   "hasOrientation": true,
+  "hasLactationStation": true,
   "tooltip": "Building 95: Cultural Centers"
 },{
   "buildingNum": 96,
@@ -1060,6 +1064,7 @@
   "hasOrientation": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "hasLactationStation": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,

@@ -1777,6 +1777,42 @@
   "hasRestrictedParking": true,
   "tooltip": "Restricted Parking Lot G"
 },{
+  "name": "Motorcycle Parking Lot J2",
+  "latitude": 34.057046945314916, 
+  "longitude": -117.82858254262158,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking Parking Lot J2"
+},{
+  "name": "Motorcycle Parking (S University Dr)",
+  "latitude": 34.05792126686461, 
+  "longitude": -117.82717058196582,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking: S University Dr by Building 2"
+},{
+  "name": "Motorcycle Parking (S University Dr)",
+  "latitude": 34.060091230286176, 
+  "longitude": -117.82221414197178,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking: S University Dr by Building 17"
+},{
+  "name": "Motorcycle Parking Lot F4",
+  "latitude": 34.06059827947617, 
+  "longitude": -117.81813544691111,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking in Parking Lot F4"
+},{
+  "name": "Motorcycle Parking Parking Structure 1",
+  "latitude": 34.06015742818431, 
+  "longitude": -117.81661265205041,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking in Parking Structure 1"
+},{
+  "name": "Motorcycle Parking Lot B",
+  "latitude": 34.05275809924711, 
+  "longitude": -117.81566191637921,
+  "hasMotorcycleParking": true,
+  "tooltip": "Motorcycle Parking in Parking Lot B"
+},{
   "name": "Solar Umbrella",
   "latitude": 34.05518010797316, 
   "longitude": -117.824480187128,

@@ -182,13 +182,20 @@
   "hasElevator": true,
   "tooltip": "Building 15: Library"
 },{
+  "buildingNum": 15,
+  "name": "24 Hour Computer Lab",
+  "latitude": 34.05811025817931, 
+  "longitude": -117.82119048360423,
+  "hasPrinter": true,
+  "tooltip": "Building 15: 24 Hour Computer Lab"
+},{
   "buildingNum": 17,
   "name": "Engineering Laboratories",
   "latitude": 34.06000142820288,
   "longitude": -117.82124247394123,
   "hasWater": true,
   "hasBikeRack": false,
-  "hasPrinter": false,
+  "hasPrinter": true,
   "hasVending": false,
   "isBuilding": true,
   "hasPwrDoorBtn": true,
@@ -928,7 +935,7 @@
   "longitude": -117.82333996126697,
   "hasWater": true,
   "hasBikeRack": true,
-  "hasPrinter": false,
+  "hasPrinter": true,
   "hasVending": true,
   "hasDining": true,
   "isBuilding": true,

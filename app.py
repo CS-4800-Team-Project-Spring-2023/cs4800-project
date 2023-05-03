@@ -1,8 +1,6 @@
 from flask import Flask, render_template
 import folium
 import my_database
-import pandas as pd
-import pytest
 
 app = Flask(__name__)
 
@@ -18,11 +16,6 @@ def get_resource_locations(resource):
             location.pop("_id")
             res.append(location["name"])
     return res
-        
-
-# basic helper function for use in the pytest route
-def pytest_test(num):
-    return pow(num, 2)
 
 @app.route("/")
 def index():
@@ -103,24 +96,6 @@ def map():
     iframe = m.get_root()._repr_html_()
 
     return render_template("map.html", iframe=iframe)
-
-@app.route("/CS4800")
-def CS4800():
-    return "Welcome CS4800 to our CPP Map Finder application!"
-
-@app.route("/pandas")
-def pnd():
-    df = pd.DataFrame({ "Project": ["CPP", "Map", "Finder"]})
-    return df.to_string(index=False)
-    
-@app.route("/pytest")
-def test_pytest():
-    assert pytest_test(5) == 25
-    return "CPP Map Finder could benefit from the usage of Pytest."
-
-@app.route("/Disclaimer")
-def disclaimer():
-    return "This application is a work in progress and is currently not a representation of the final product."
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -901,4 +901,16 @@
   "longitude": -117.80987905750061,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot S"
+},{
+  "name": "Visitor Only Parking",
+  "latitude": 34.04885327367669, 
+  "longitude": -117.81954833055039,
+  "hasVisitoryParking": true,
+  "tooltip": "Visitor Only Parking Lot I"
+},{
+  "name": "Visitor Only Parking",
+  "latitude": 34.04904058843128, 
+  "longitude": -117.81450379206765,
+  "hasVisitoryParking": true,
+  "tooltip": "Vilage Visitor Parking Lot"
 }]

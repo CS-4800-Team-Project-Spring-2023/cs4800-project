@@ -77,6 +77,7 @@ def map():
     handleMarkers(m, "Student Residence Parking", "hasResidenceParking", "darkred", "fa-building")
     handleMarkers(m, "Student & Visitor Parking", "hasStudentParking", "darkgreen", "fa-car")
     handleMarkers(m, "Faculty & Staff Parking", "hasFacultyParking", "lightgreen", "fa-car")
+    handleMarkers(m, "Visitor Only Parking", "hasVisitorOnlyParking", "lightred", "fa-car")
 
     folium.LayerControl().add_to(m)
 

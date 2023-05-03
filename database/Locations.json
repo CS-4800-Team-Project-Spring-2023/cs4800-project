@@ -1674,13 +1674,13 @@
   "name": "Solar Umbrella",
   "latitude": 34.05518010797316, 
   "longitude": -117.824480187128,
-  "hasSolarUmbrella": true,
+  "hasSolarUmbrellas": true,
   "tooltip": "Collins Solar Umbrella"
 },{
   "name": "Solar Umbrella",
   "latitude": 34.05963566556445, 
   "longitude": -117.82482143080802,
-  "hasSolarUmbrella": true,
+  "hasSolarUmbrellas": true,
   "hasNaturalEnvironment": true,
   "tooltip": "Project Blue Solar Umbrella"
 },{

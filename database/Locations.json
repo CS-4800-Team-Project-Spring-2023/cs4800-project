@@ -8,6 +8,7 @@
   "name": "Building One",
   "hasVending": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 1: Building One"
 },{
   "buildingNum": 2,
@@ -19,6 +20,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 2: Huntley College of Agriculture"
 },{
 
@@ -31,6 +33,7 @@
   "hasPrinter": false,
   "hasVending": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 3: Science Laboratory"
 },{
   "buildingNum": 4,
@@ -62,6 +65,7 @@
   "hasPrinter": false,
   "hasVending": true, 
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 5: College of Letters, Arts, and Social Sciences"
 },{
   "buildingNum": 6,
@@ -73,6 +77,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 6: College of Education and Integrative Studies"
 },{
   "buildingNum": 7,
@@ -85,6 +90,7 @@
   "hasVending": false,
   "hasDining": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 7: College of Environmental Design"
 },{
@@ -97,6 +103,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 8: College of Science"
 },{
   "buildingNum": 9,
@@ -109,6 +116,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasOrientation": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 9: College of Engineering"
 },{
   "buildingNum": 13,
@@ -156,6 +164,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "hasOrientation": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 15: Library"
 },{
   "buildingNum": 17,
@@ -211,6 +220,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 24: Music"
 },{
   "buildingNum": "24A",
@@ -440,6 +450,7 @@
   "hasVending": false,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 46: Health Services"
 },{
   "buildingNum": 47,
@@ -638,6 +649,7 @@
   "longitude": -117.81841780612548,
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 73: Residence Suites, Sicomoro Hall"
 },{
   "buildingNum": 74,
@@ -647,6 +659,7 @@
   "name": "Residence Suites",
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 74: Residence Suites, Secoya Hall"
 },{
   "buildingNum": 75,
@@ -720,6 +733,7 @@
   "hasWater": true,
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 80: Collins College of Hospitality Management"
 },{
   "buildingNum": 81,
@@ -887,6 +901,7 @@
   "hasVending": true,
   "hasDining": true,
   "isBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 97: Campus Center"
 },{
   "buildingNum": 98,
@@ -976,6 +991,7 @@
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
   "hasOrientation": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
@@ -997,6 +1013,7 @@
   "isBuilding": true,
   "hasWater": true,
   "isLeedCertifiedBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 163: College of Business Administration"
 },{
   "buildingNum": 164,
@@ -1007,6 +1024,7 @@
   "isBuilding": true,
   "hasWater": true,
   "isLeedCertifiedBuilding": true,
+  "hasAutoPowerDoor": true,
   "tooltip": "Building 164: College of Business Administration"
 },{
   "buildingNum": 193,

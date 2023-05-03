@@ -913,4 +913,10 @@
   "longitude": -117.81450379206765,
   "hasVisitoryParking": true,
   "tooltip": "Vilage Visitor Parking Lot"
+},{
+  "name": "Restricted Parking", 
+  "latitude": 34.05563314714852, 
+  "longitude": -117.81976246488206,
+  "hasRestrictedParking": true,
+  "tooltip": "Restricted Parking Lot G"
 }]

@@ -216,6 +216,7 @@
   "longitude": -117.82064672578575,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Buiding 20: Residence Hall, Encinitas"
 },{
   "buildingNum": 21,
@@ -224,6 +225,7 @@
   "longitude": -117.81934317220316,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 21:  "
 },{
   "buildingNum": 22,
@@ -232,6 +234,7 @@
   "longitude": -117.8181361781498 ,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 22: Residence Hall, Alamitos"
 },{
   "buildingNum": 23,
@@ -240,6 +243,7 @@
   "longitude": -117.81783577074079,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 23: Residence Hall, Aliso"
 },{
   "buildingNum": 24,
@@ -536,6 +540,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 54: Residence Suites"
 },{
   "buildingNum": 55,
@@ -557,6 +562,7 @@
   "latitude": 34.06057139071057, 
   "longitude": -117.8224143015228,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 57: Residence Hall, Palmitas"
 },{
   "buildingNum": 58,
@@ -564,6 +570,7 @@
   "latitude": 34.06154687171711, 
   "longitude": -117.82126899827436,
   "isBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 58: Residence Hall, Cedritos"
 },{
   "buildingNum": 59,
@@ -584,6 +591,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 60: Residence Suites"
 },{
   "buildingNum": 61,
@@ -597,6 +605,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 61: Residence Suites"
 },{
   "buildingNum": 62,
@@ -610,6 +619,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 62: Residence Suites"
 },{
   "buildingNum": 63,
@@ -623,6 +633,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
+  "isResidence": true,
   "tooltip": "Building 63: Residence Suites"
 },{
   "buildingNum": 64,
@@ -695,6 +706,7 @@
   "isLeedCertifiedBuilding": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "isResidence": true,
   "tooltip": "Building 73: Residence Suites, Sicomoro Hall"
 },{
   "buildingNum": 74,
@@ -706,6 +718,7 @@
   "isLeedCertifiedBuilding": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "isResidence": true,
   "tooltip": "Building 74: Residence Suites, Secoya Hall"
 },{
   "buildingNum": 75,
@@ -1092,6 +1105,15 @@
   "isBuilding": true,
   "tooltip": "Building 193: Chilled Water Center Plant"
 },{
+  "buildingNum": 200,
+  "name": "University Village",
+  "latitude": 34.04852411299446, 
+  "longitude": -117.81493179396297,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "isResidence": true,
+  "tooltip": "Building 200: University Village"
+},{
   "buildingNum": 208,
   "name": "John T. Lyle Center for Regenerative Studies",
   "latitude": 34.050046313667984, 
@@ -1197,14 +1219,6 @@
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
   "tooltip": "Building 219: Edison SCE1"
-},{
-  "buildingNum": 200,
-  "name": "University Village",
-  "latitude": 34.04852411299446, 
-  "longitude": -117.81493179396297,
-  "hasGenderInclusiveRestroom": true,
-  "isBuilding": true,
-  "tooltip": "Building 200: University Village"
 },{
   "buildingNum": "220A",
   "name": "Center for Training, Technology, and Incubation",

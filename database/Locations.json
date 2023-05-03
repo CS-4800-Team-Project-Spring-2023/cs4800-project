@@ -144,6 +144,38 @@
   "isBuilding": true,
   "tooltip": "Building 17: Engineering Laboratories"
 },{
+  "buildingNum": 20,
+  "name": "Residence Hall, Encinitas",
+  "latitude": 34.06235124623735, 
+  "longitude": -117.82064672578575,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Buiding 20: Residence Hall, Encinitas"
+},{
+  "buildingNum": 21,
+  "name": "Residence Hall, Monecito",
+  "latitude": 34.062215703004284, 
+  "longitude": -117.81934317220316,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 21:  "
+},{
+  "buildingNum": 22,
+  "name": "Residence Hall, Alamitos",
+  "latitude": 34.06225569938642, 
+  "longitude": -117.8181361781498 ,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 22: Residence Hall, Alamitos"
+},{
+  "buildingNum": 23,
+  "name": "Residence Hall, Aliso",
+  "latitude": 34.06293785709405, 
+  "longitude": -117.81783577074079,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 23: Residence Hall, Aliso"
+},{
   "buildingNum": 24,
   "name": "Music",
   "latitude": 34.05701045559314,
@@ -176,6 +208,21 @@
   "hasVending": false,
   "isBuilding": true,
   "tooltip": "Building 26: University Plaza"
+},{
+  "buildingNum": 28,
+  "name": "Fruit/Crops Unit",
+  "latitude": 34.06005828443952, 
+  "longitude": -117.81093972342151,
+  "isBuilding": true,
+  "tooltip": "Building 28: Fruit/Crops Unit"
+},{
+  "buildingNum": 29,
+  "name": "W.K. Kellogg Arabian Horse Center",
+  "latitude": 34.05872161518149, 
+  "longitude": -117.81474023668663,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 29: W.K. Kellogg Arabian Horse Center"
 },{
   "buildingNum": 30,
   "name": "Agriculture Unit",
@@ -304,6 +351,27 @@
   "isBuilding": true,
   "tooltip": "Building 54: Residence Suites"
 },{
+  "buildingNum": 57,
+  "name": "Residence Hall, Palmitas",
+  "latitude": 34.06057139071057, 
+  "longitude": -117.8224143015228,
+  "isBuilding": true,
+  "tooltip": "Building 57: Residence Hall, Palmitas"
+},{
+  "buildingNum": 58,
+  "name": "Residence Hall, Cedritos",
+  "latitude": 34.06154687171711, 
+  "longitude": -117.82126899827436,
+  "isBuilding": true,
+  "tooltip": "Building 58: Residence Hall, Cedritos"
+},{
+  "buildingNum": 59,
+  "name": "La Cienega Center (University Housing Services)",
+  "latitude": 34.061038023117725, 
+  "longitude": -117.82195296157325,
+  "isBuilding": true,
+  "tooltip": "Building 59: La Cienega Center (University Housing Services)"
+},{
   "buildingNum": 60,
   "name": "Building 60: Residence Suites",
   "latitude": 34.05497048944589,
@@ -366,6 +434,21 @@
   "longitude": -117.82773845782378,
   "isBuilding": true,
   "tooltip": "Building 68: Hay Barn"
+},{
+  "buildingNum": 70,
+  "name": "Los Olivos Commons",
+  "latitude": 34.062422350801825, 
+  "longitude": -117.82156404126358,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 70: Los Olivos Commons"
+},{
+  "buildingNum": 71,
+  "name": "Recreation/Maintenance",
+  "latitude": 34.06304673517873, 
+  "longitude": -117.816776298178,
+  "isBuilding": true,
+  "tooltip": "Building 71: Recreation/Maintenance"
 },{
   "buildingNum": 72,
   "name": "Centerpointe Dining Commons",
@@ -456,6 +539,36 @@
   "isBuilding": true,
   "tooltip": "Building 89: Interim Design Center"
 },{
+  "buildingNum": "89A",
+  "name": "Interim Design Center",
+  "latitude": 34.06054358283316, 
+  "longitude": -117.81211207014826,
+  "isBuilding": true,
+  "tooltip": "Building 89A: Interim Design Center"
+},{
+  "buildingNum": "89B",
+  "name": "Interim Design Center",
+  "latitude": 34.06013104972724, 
+  "longitude": -117.81241420121869,
+  "isBuilding": true,
+  "tooltip": "Building 89B: Interim Design Center"
+},{
+  "buildingNum": 90,
+  "name": "Medic-1",
+  "latitude": 34.06130050068818, 
+  "longitude": -117.81647210464676,
+  "isBuilding": true,
+  "tooltip": "Building 90: Medic-1"
+},{
+  "buildingNum": 91,
+  "name": "Information Technology & Institutional Planning",
+  "latitude": 34.06132284222676, 
+  "longitude": -117.81865454704209,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 91: Information Technology & Institutional Planning"
+}
+,{
   "buildingNum": 92,
   "name": "Laboratory Facility",
   "latitude": 34.057774874633935,
@@ -476,7 +589,16 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasGenderInclusiveRestroom": true,
   "tooltip": "Building 94: University Office Building"
+},{
+  "buildingNum": 95,
+  "name": "Cultural Centers",
+  "latitude": 34.05798717659409, 
+  "longitude": -117.82265173148919,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 95: Cultural Centers"
 },{
   "buildingNum": 97,
   "name": "Campus Center",
@@ -501,6 +623,35 @@
   "isBuilding": true,
   "tooltip": "Building 98: Classroom/Laboratory/Adminstration (C/L/A)"
 },{
+  "buildingNum": 109,
+  "name": "Police and Parking Services",
+  "latitude": 34.06081268577064, 
+  "longitude": -117.81576180379531,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 109: Police and Parking Services"
+},{
+  "buildingNum": 111,
+  "name": "Manor House",
+  "latitude": 34.06048695219302, 
+  "longitude": -117.8229426966941,
+  "isBuilding": true,
+  "tooltip": "Building 111: Manor House"
+},{
+  "buildingNum": 112,
+  "name": "Kellogg House Pomona",
+  "latitude": 34.06262272343783, 
+  "longitude": -117.82443638878509,
+  "isBuilding": true,
+  "tooltip": "Building 112: Kellogg House Pomona"
+},{
+  "buildingNum": 113,
+  "name": "Guest House",
+  "latitude": 34.06243758249186, 
+  "longitude": -117.8247710016597,
+  "isBuilding": true,
+  "tooltip": "Building 113: Guest House"
+},{
   "buildingNum": 121,
   "name": "Student Services Building",
   "latitude": 34.058170414392315,
@@ -514,14 +665,29 @@
 },{
   "buildingNum": 162,
   "name": "College of Business Administration Building",
-  "latitude": 34.06140577118429,
-  "longitude": -117.81993355592269,
+  "latitude": 34.06130911314437, 
+  "longitude": -117.81958725322221,
   "hasWater": true,
   "hasBikeRack": false,
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
   "tooltip": "College of Business Administration"
+},{
+  "buildingNum": 163,
+  "name": "College of Business Administration",
+  "latitude": 34.06127578245078, 
+  "longitude": -117.82021757233515,
+  "isBuilding": true,
+  "tooltip": "Building 163: College of Business Administration"
+},{
+  "buildingNum": 164,
+  "name": "College of Business Administration",
+  "latitude": 34.061635753254656, 
+  "longitude": -117.81978841889544,
+  "hasGenderInclusiveRestroom": true,
+  "isBuilding": true,
+  "tooltip": "Building 164: College of Business Administration"
 },{
   "buildingNum": 193,
   "name": "Chilled Water Center Plant",

@@ -4384,7 +4384,10 @@
 	object-position: center;
   }
 
-  .pagination_
+  .swiper-pagination-bullet{
+	height: 20px;
+	width: 26px;
+  }
   
   .card {
 	position: relative;

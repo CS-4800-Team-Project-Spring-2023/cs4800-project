@@ -848,35 +848,35 @@
   "tooltip": "Building 85: I-Poly High School"
 },{
   "buildingNum": 86,
-  "name": "English Language Institute",
+  "name": "English Language Institute: 86",
   "latitude": 34.05337656319663, 
   "longitude": -117.81971859059081,
   "isBuilding": true,
   "tooltip": "Building 86: English Language Institute"
 },{
   "buildingNum": "86A",
-  "name": "English Language Institute",
+  "name": "English Language Institute: 86A",
   "latitude": 34.053239261195095, 
   "longitude": -117.82000061734712,
   "isBuilding": true,
   "tooltip": "Building 86A: English Language Institute"
 },{
   "buildingNum": "86B",
-  "name": "English Language Institute",
+  "name": "English Language Institute: 86B",
   "latitude": 34.05351613910879, 
   "longitude": -117.82009394836399,
   "isBuilding": true,
   "tooltip": "Building 86B: English Language Institute"
 },{
   "buildingNum": "86C",
-  "name": "English Language Institute",
+  "name": "English Language Institute: 86C",
   "latitude": 34.05335275630513, 
   "longitude": -117.8201857740419,
   "isBuilding": true,
   "tooltip": "Building 86C: English Language Institute"
 },{
   "buildingNum": 89,
-  "name": "Interim Design Center",
+  "name": "Interim Design Center: 89",
   "latitude": 34.06069969392488,
   "longitude": -117.81211265836465,
   "hasWater": true,
@@ -888,14 +888,14 @@
   "tooltip": "Building 89: Interim Design Center"
 },{
   "buildingNum": "89A",
-  "name": "Interim Design Center",
+  "name": "Interim Design Center: 89A",
   "latitude": 34.06054358283316, 
   "longitude": -117.81211207014826,
   "isBuilding": true,
   "tooltip": "Building 89A: Interim Design Center"
 },{
   "buildingNum": "89B",
-  "name": "Interim Design Center",
+  "name": "Interim Design Center: 89B",
   "latitude": 34.06013104972724, 
   "longitude": -117.81241420121869,
   "isBuilding": true,
@@ -998,14 +998,14 @@
   "tooltip": "Building 98P: CLA Paseo"
 },{
   "buildingNum": 99,
-  "name": "Storage Building",
+  "name": "Storage Building: 99",
   "latitude": 34.06184333830117, 
   "longitude": -117.81103387043244,
   "isBuilding": true,
   "tooltip": "Building 99: Storage Building"
 },{
   "buildingNum": 100,
-  "name": "Storage Building",
+  "name": "Storage Building: 109",
   "latitude": 34.06203019966337, 
   "longitude": -117.81081636307883,
   "isBuilding": true,
@@ -1068,7 +1068,7 @@
   "tooltip": "Building 121: Student Services Building"
 },{
   "buildingNum": 162,
-  "name": "College of Business Administration",
+  "name": "College of Business Administration: 162",
   "latitude": 34.06130911314437, 
   "longitude": -117.81958725322221,
   "hasWater": true,
@@ -1080,7 +1080,7 @@
   "tooltip": "Building 162: College of Business Administration"
 },{
   "buildingNum": 163,
-  "name": "College of Business Administration",
+  "name": "College of Business Administration: 163",
   "latitude": 34.06127578245078, 
   "longitude": -117.82021757233515,
   "isBuilding": true,
@@ -1091,7 +1091,7 @@
   "tooltip": "Building 163: College of Business Administration"
 },{
   "buildingNum": 164,
-  "name": "College of Business Administration",
+  "name": "College of Business Administration: 164",
   "latitude": 34.061635753254656, 
   "longitude": -117.81978841889544,
   "hasGenderInclusiveRestroom": true,
@@ -1129,7 +1129,7 @@
   "tooltip": "Building 208: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": 209,
-  "name": "Center for Regenerative Studies",
+  "name": "Center for Regenerative Studies: 209",
   "latitude": 34.049629654769674, 
   "longitude": -117.82453772731004,
   "isBuilding": true,
@@ -1138,42 +1138,42 @@
   "tooltip": "Building 209: Center for Regenerative Studies"
 },{
   "buildingNum": "209C",
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 209C",
   "latitude": 34.04971331719578, 
   "longitude": -117.82413859834449,
   "isBuilding": true,
   "tooltip": "Building 209C: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": "209L",
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 209L",
   "latitude": 34.049700289740905, 
   "longitude": -117.82440985073917,
   "isBuilding": true,
   "tooltip": "Buiding 209L: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": "209R",
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 209R",
   "latitude": 34.049382431900774, 
   "longitude": -117.82471249195731,
   "isBuilding": true,
   "tooltip": "Building 209R: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": "209S",
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 209S",
   "latitude": 34.04962847751874, 
   "longitude": -117.82477500939234,
   "isBuilding": true,
   "tooltip": "Building 209S: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": "209W",
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 209W",
   "latitude": 34.04982154630431, 
   "longitude": -117.82449083923406,
   "isBuilding": true,
   "tooltip": "Building 209W: John T. Lyle Center for Regenerative Studies"
 },{
   "buildingNum": 210,
-  "name": "John T. Lyle Center for Regenerative Studies",
+  "name": "John T. Lyle Center for Regenerative Studies: 210",
   "latitude": 34.04969642067242, 
   "longitude": -117.82163912916873,
   "isBuilding": true,
@@ -1227,21 +1227,21 @@
   "tooltip": "Building 219: Edison SCE1"
 },{
   "buildingNum": "220A",
-  "name": "Center for Training, Technology, and Incubation",
+  "name": "Center for Training, Technology, and Incubation: 220A",
   "latitude": 34.050001869532814, 
   "longitude": -117.81519761825807,
   "isBuilding": true,
   "tooltip": "Building 220A: Center for Training, Technology, and Incubation"
 },{
   "buildingNum": "220B",
-  "name": "Center for Training, Technology, and Incubation",
+  "name": "Center for Training, Technology, and Incubation: 220B",
   "latitude": 34.050441504622995, 
   "longitude": -117.81529167865814,
   "isBuilding": true,
   "tooltip": "Building 220B: Center for Training, Technology, and Incubation"
 },{
   "buildingNum": "220C",
-  "name": "Center for Training, Technology, and Incubation",
+  "name": "Center for Training, Technology, and Incubation: 220C",
   "latitude": 34.05023997830559, 
   "longitude": -117.81479207334466,
   "isBuilding": true,
@@ -1266,70 +1266,70 @@
   "hasLibraryReturn": true,
   "tooltip": "Drive-By Drop Return for Library Books"
 },{
-  "name": "Foothill Transit",
+  "name": "Foothill Transit ID:2565",
   "Stop ID": 2565,
   "latitude": 34.05070494340756, 
   "longitude": -117.82105574194522,
   "hasBusStop": true,
   "tooltip": "NW Corner of S. University Dr. and Temple Ave. (Westbound)"
 },{
-  "name": "Foothill Transit",
+  "name": "Foothill Transit ID:2564",
   "Stop ID": 2564,
   "latitude": 34.0503798779685, 
   "longitude": -117.82048478526072,
   "hasBusStop": true,
   "tooltip": "SE Corner of S. University Dr. and Temple Ave. (Eastbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2563", 
   "Stop ID": 2563,
   "latitude": 34.050623207680054, 
   "longitude": -117.81738490338829,
   "hasBusStop": true,
   "tooltip": "NW Corner of S. Campus Dr. and Temple Ave. (Westbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2322", 
   "Stop ID": 2322,
   "latitude": 34.05078516218154,
   "longitude": -117.81614278797801,
   "hasBusStop": true,
   "tooltip": "NE Corner of S. Campus Dr. and Temple Ave. (Northbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2562", 
   "Stop ID": 2562,
   "latitude": 34.04994154664034, 
   "longitude": -117.81613759961644,
   "hasBusStop": true,
   "tooltip": "SE Corner of S. Campus Dr. and Temple Ave. (Eastbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2566", 
   "Stop ID": 2566,
   "latitude": 34.048565450959416,
   "longitude": -117.81261870636317,
   "hasBusStop": true,
   "tooltip": "SW Corner of Temple Ave. and Valley Blvd. (Eastbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2567", 
   "Stop ID": 2567,
   "latitude": 34.04878055121807, 
   "longitude": -117.81268560363391,
   "hasBusStop": true,
   "tooltip": "NW Corner of Temple Ave. and Valley Blvd. (Westbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:2631", 
   "Stop ID": 2631,
   "latitude": 34.048864756377256, 
   "longitude": -117.8119533592628,
   "hasBusStop": true,
   "tooltip": "NE Corner of Temple Ave. adn Valley Blvd. (Northbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:3141", 
   "Stop ID": 3141,
   "latitude": 34.05384573086951,  
   "longitude": -117.81372586201744,
   "hasBusStop": true,
   "tooltip": "NW Corner of S. Campus Dr. and Kellogg Dr. (Southbound)"
 },{
-  "name": "Foothill Transit", 
+  "name": "Foothill Transit ID:3140", 
   "Stop ID": 3140,
   "latitude": 34.0538284095306,
   "longitude": -117.81363608674742,
@@ -1378,157 +1378,157 @@
   "hasEV": true,
   "tooltip": "Features 2 EV chargers. This lot requires a faculty/staff permit."
 },{
-  "name": "Accessible Parking 1",
+  "name": "Accessible Parking: 1",
   "latitude": 34.06020858143796, 
   "longitude": -117.8179712578158,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Parking Structure 1)"
 },{
-  "name": "Accessible Parking 2",
+  "name": "Accessible Parking: 2",
   "latitude": 34.05221310824704, 
   "longitude": -117.82007587328185,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Parking Structure 2)"
 },{
-  "name": "Accessible Parking A",
+  "name": "Accessible Parking: A",
   "latitude": 34.060461405515106, 
   "longitude": -117.82501101622253 ,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Faculty & Staff Lot A)"
 },{
-  "name": "Accessible Parking C",
+  "name": "Accessible Parking: C",
   "latitude": 34.059012298120294, 
   "longitude": -117.81869129887875,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Short Term Parking)"
 },{
-  "name": "Accessible Parking E1",
+  "name": "Accessible Parking: E1",
   "latitude": 34.06112080108297, 
   "longitude": -117.81170737141193,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Lot E1)"
 },{
-  "name": "Accessible Parking E2",
+  "name": "Accessible Parking: E2",
   "latitude": 34.06111023116834, 
   "longitude": -117.8122878971669,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Lot E2)"
 },{
-  "name": "Accessible Parking F4",
+  "name": "Accessible Parking: F4",
   "latitude": 34.060612998072045, 
   "longitude": -117.8181523069246,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Faculty & Staff Lot F4)"
 },{
-  "name": "Accessible Parking F8",
+  "name": "Accessible Parking: F8",
   "latitude": 34.059287860223144, 
   "longitude": -117.8178559640824,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Lot F8)"
 },{
-  "name": "Accessible Parking G",
+  "name": "Accessible Parking: G",
   "latitude": 34.05578484311107, 
   "longitude": -117.819979470848,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Lot G)"
 },{
-  "name": "Accessible Parking J",
+  "name": "Accessible Parking: J",
   "latitude": 34.05646787026156, 
   "longitude": -117.82853286920758 ,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Lot J3-J8)"
 },{
-  "name": "Accessible Parking K",
+  "name": "Accessible Parking: K",
   "latitude": 34.050705021622896, 
   "longitude": -117.82004394021962, 
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Student Lot K)"
 },{
-  "name": "Accessible Parking L",
+  "name": "Accessible Parking: L",
   "latitude": 34.05519756937629, 
   "longitude": -117.8250187504863 ,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Lot L)"
 },{
-  "name": "Accessible Parking M",
+  "name": "Accessible Parking: M",
   "latitude": 34.05606199384389,  
   "longitude": -117.82765209128594,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Faculty & Staff Lot M)"
 },{
-  "name": "Accessible Parking",
+  "name": "Accessible Parking: Camphor/Olive",
   "latitude": 34.05762468142467, 
   "longitude": -117.82265793199532,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (Camphor Lane and Olive Lane)"
 },{
-  "name": "Accessible Parking",
+  "name": "Accessible Parking: University Dr/University Quad",
   "latitude": 34.059030102253764, 
   "longitude": -117.82495889918314,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (University Dr. by University Quad)"
 },{
-  "name": "Accessible Parking",
+  "name": "Accessible Parking: S University Dr/Olive Lane Walk",
   "latitude": 34.06085594347164, 
   "longitude": -117.82111558543544,
   "hasAccessibleParking": true,
   "tooltip": "Accessible Parking (S University Dr. and Olive Lane Walk)"
 },{
-  "name": "Permit Dispenser 1",
+  "name": "Permit Dispenser: 1",
   "latitude": 34.06024064188275, 
   "longitude": -117.81805103464225,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Parking Structure 1)"
 },{
-  "name": "Permit Dispenser 2",
+  "name": "Permit Dispenser: 2",
   "latitude": 34.051680142643825, 
   "longitude": -117.8193608963,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Parking Structure 2)"
 },{
-  "name": "Permit Dispenser B1",
+  "name": "Permit Dispenser: B1",
   "latitude": 34.05291375343507, 
   "longitude": -117.81554005636924,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot B)"
 },{
-  "name": "Permit Dispenser B2",
+  "name": "Permit Dispenser: B2",
   "latitude": 34.053839600853834, 
   "longitude": -117.81441387626599,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot B)"
 },{
-  "name": "Permit Dispenser C",
+  "name": "Permit Dispenser: C",
   "latitude": 34.05923405868731,  
   "longitude": -117.81887556597967,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot C)"
 },{
-  "name": "Permit Dispenser E2",
+  "name": "Permit Dispenser: E2",
   "latitude": 34.061086840368304, 
   "longitude": -117.81221767744485,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot E2)"
 },{
-  "name": "Permit Dispenser Express",
+  "name": "Permit Dispenser: Express Lot",
   "latitude": 34.052829239260284, 
   "longitude": -117.81025413745976,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Express Lot)"
 },{
-  "name": "Permit Dispenser F5",
+  "name": "Permit Dispenser: F5",
   "latitude": 34.061311043666, 
   "longitude": -117.81606742182792 ,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot F5)"
 },{
-  "name": "Permit Dispenser G",
+  "name": "Permit Dispenser: G",
   "latitude": 34.055741638776006,  
   "longitude": -117.82007543799173,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot G by the Bookstore)"
 },{
-  "name": "Permit Dispenser J",
+  "name": "Permit Dispenser: J",
   "latitude": 34.05694459064358, 
   "longitude": -117.8287850872595,
   "hasPermitDispenser": true,
@@ -1540,67 +1540,67 @@
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot K)"
 },{
-  "name": "Permit Dispenser M1",
+  "name": "Permit Dispenser: M1",
   "latitude": 34.05562591860928, 
   "longitude": -117.83077865098818,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot M)"
 },{
-  "name": "Permit Dispenser M2",
+  "name": "Permit Dispenser: M2",
   "latitude": 34.05532201333596, 
   "longitude": -117.82932095719681,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot M)"
 },{
-  "name": "Permit Dispenser U",
+  "name": "Permit Dispenser: U",
   "latitude": 34.049382319212015,  
   "longitude": -117.81715614572286,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Lot U)"
 },{
-  "name": "Permit Dispenser",
+  "name": "Permit Dispenser: Village",
   "latitude": 34.04899693255804, 
   "longitude": -117.81495196968781,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (University Village)"
 },{
-  "name": "Permit Dispenser",
+  "name": "Permit Dispenser: Info Booth",
   "latitude": 34.06038835395404, 
   "longitude": -117.81581677961523,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Parking Information Booth)"
 },{
-  "name": "Permit Dispenser",
+  "name": "Permit Dispenser: Kellogg Field",
   "latitude": 34.050845117768944, 
   "longitude": -117.8172987914117,
   "hasPermitDispenser": true,
   "tooltip": "Permit Dispenser (Kellogg Field)"
 },{
-  "name": "Parking Residence",
+  "name": "Parking Residence: F2",
   "latitude": 34.06160458528229, 
   "longitude": -117.81773818605576,
   "hasResidenceParking": true,
   "tooltip": "Student Residence Parking (Lot F2)"
 },{
-  "name": "Parking Residence",
+  "name": "Parking Residence: P",
   "latitude": 34.05447453947886, 
   "longitude": -117.81554790704901,
   "hasResidenceParking": true,
   "tooltip": "Student Residence Parking (Lot P)"
 },{
-  "name": "Parking Residence",
+  "name": "Parking Residence: Q",
   "latitude": 34.0549239533391, 
   "longitude": -117.81709877803229,
   "hasResidenceParking": true,
   "tooltip": "Student Residence Parking (Lot Q)"
 },{
-  "name": "Student Parking 1",
+  "name": "Student Parking: 1",
   "latitude": 34.06029361355298, 
   "longitude": -117.81687707822547,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Structure 1"
 },{
-  "name": "Student Parking 2",
+  "name": "Student Parking: 2",
   "latitude": 34.051810411535335, 
   "longitude": -117.81966267131025,
   "hasStudentParking": true,
@@ -1608,31 +1608,31 @@
   "hasOrientation": true,
   "tooltip": "Student & Visitor Parking Structure 2"
 },{
-  "name": "Student Parking B",
+  "name": "Student Parking: B",
   "latitude": 34.052031733432614, 
   "longitude": -117.81580137993062,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot B"
 },{
-  "name": "Student Parking E1",
+  "name": "Student Parking: E1",
   "latitude": 34.06153343877808, 
   "longitude": -117.81151375988819,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot E1"
 },{
-  "name": "Student Parking E2",
+  "name": "Student Parking: E2",
   "latitude": 34.06072666461864, 
   "longitude": -117.81262723919065,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot E2"
 },{
-  "name": "Student Parking F1",
+  "name": "Student Parking: F1",
   "latitude": 34.062398960676326, 
   "longitude": -117.81691264072809,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot F1"
 },{
-  "name": "Student Parking F3",
+  "name": "Student Parking: F3",
   "latitude": 34.06208222532462, 
   "longitude": -117.81630090914884,
   "hasStudentParking": true,
@@ -1644,122 +1644,122 @@
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot F5"
 },{
-  "name": "Student Parking F9",
+  "name": "Student Parking: F9",
   "latitude": 34.06021151536389, 
   "longitude": -117.81540056128863,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot F9"
 },{
-  "name": "Student Parking F10",
+  "name": "Student Parking: F10",
   "latitude": 34.06104222037426, 
   "longitude": -117.81462652800728,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot F10"
 },{
-  "name": "Student Parking J3-J4",
+  "name": "Student Parking: J3-J4",
   "latitude": 34.05798234973667, 
   "longitude": -117.82928728948659,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot J3-J4"
 },{
-  "name": "Student Parking J5-J8",
+  "name": "Student Parking: J5-J8",
   "latitude": 34.056564990247985, 
   "longitude": -117.82829733872349,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot J5-J8"
 },{
-  "name": "Student Parking K",
+  "name": "Student Parking: K",
   "latitude": 34.05100494202866, 
   "longitude": -117.82014368822998,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot K"
 },{
-  "name": "Student Parking M",
+  "name": "Student Parking: M",
   "latitude": 34.05551009901263, 
   "longitude": -117.83000935166841,
   "hasStudentParking": true,
   "hasSolarPanel": true,
   "tooltip": "Student & Visitor Parking Lot M"
 },{
-  "name": "Student Parking T",
+  "name": "Student Parking: T",
   "latitude": 34.060222422463745, 
   "longitude": -117.81084836850674,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot T"
 },{
-  "name": "Student Parking U",
+  "name": "Student Parking: U",
   "latitude": 34.04890413171543, 
   "longitude": -117.81742704780721,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking Lot U"
 },{
-  "name": "Student Parking",
+  "name": "Student Parking: Kellogg House",
   "latitude": 34.06354665673082, 
   "longitude": -117.8256494196434,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Parking (Kellogg House)"
 },{
-  "name": "Student Parking",
+  "name": "Student Parking: Overflow Parking",
   "latitude": 34.04967973146523, 
   "longitude": -117.81316566046186,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Overflow Parking (Innovation Way & W Temple Ave)"
 },{
-  "name": "Student Parking",
+  "name": "Student Parking: Overflow Parking",
   "latitude": 34.05347643007613, 
   "longitude": -117.80935570987626,
   "hasStudentParking": true,
   "tooltip": "Student & Visitor Overflow Parking (Kellog Dr & Valley Blvd)"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: A",
   "latitude": 34.06035993988283, 
   "longitude": -117.82458449027531,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot A"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: F4",
   "latitude": 34.06107643672359, 
   "longitude": -117.81731332360968,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking F4"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: F8",
   "latitude": 34.059197555706845, 
   "longitude": -117.81710092968525,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking F8"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: J1-J2",
   "latitude": 34.05801108714192, 
   "longitude": -117.82854294888024,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot J1-J2"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: L",
   "latitude": 34.05556592049816, 
   "longitude": -117.82545973337287,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot L"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: M",
   "latitude": 34.05589153431362, 
   "longitude": -117.82800603452327,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot M"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: O",
   "latitude": 34.049998892611846, 
   "longitude": -117.81445844731066,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot O"
 },{
-  "name": "Faculty and Staff Parking",
+  "name": "Faculty and Staff Parking: S",
   "latitude": 34.05996547195504, 
   "longitude": -117.80987905750061,
   "hasFacultyParking": true,
   "tooltip": "Faculty and Staff Parking Lot S"
 },{
-  "name": "Visitor Only Parking",
+  "name": "Visitor Only Parking: I",
   "latitude": 34.04885327367669, 
   "longitude": -117.81954833055039,
   "hasVisitorParking": true,
@@ -1771,25 +1771,25 @@
   "hasVisitorParking": true,
   "tooltip": "Vilage Visitor Parking Lot"
 },{
-  "name": "Restricted Parking", 
+  "name": "Restricted Parking: G", 
   "latitude": 34.05563314714852, 
   "longitude": -117.81976246488206,
   "hasRestrictedParking": true,
   "tooltip": "Restricted Parking Lot G"
 },{
-  "name": "Motorcycle Parking Lot J2",
+  "name": "Motorcycle Parking: J2",
   "latitude": 34.057046945314916, 
   "longitude": -117.82858254262158,
   "hasMotorcycleParking": true,
   "tooltip": "Motorcycle Parking Parking Lot J2"
 },{
-  "name": "Motorcycle Parking (S University Dr)",
+  "name": "Motorcycle Parking: S University Dr",
   "latitude": 34.05792126686461, 
   "longitude": -117.82717058196582,
   "hasMotorcycleParking": true,
   "tooltip": "Motorcycle Parking: S University Dr by Building 2"
 },{
-  "name": "Motorcycle Parking (S University Dr)",
+  "name": "Motorcycle Parking: S University Dr",
   "latitude": 34.060091230286176, 
   "longitude": -117.82221414197178,
   "hasMotorcycleParking": true,
@@ -1801,13 +1801,13 @@
   "hasMotorcycleParking": true,
   "tooltip": "Motorcycle Parking in Parking Lot F4"
 },{
-  "name": "Motorcycle Parking Parking Structure 1",
+  "name": "Motorcycle Parking: 1",
   "latitude": 34.06015742818431, 
   "longitude": -117.81661265205041,
   "hasMotorcycleParking": true,
   "tooltip": "Motorcycle Parking in Parking Structure 1"
 },{
-  "name": "Motorcycle Parking Lot B",
+  "name": "Motorcycle Parking: B",
   "latitude": 34.05275809924711, 
   "longitude": -117.81566191637921,
   "hasMotorcycleParking": true,
@@ -2078,85 +2078,85 @@
   "isOpenSpace": true,
   "tooltip": "Voorhis Park"
 },{
-  "name": "Shuttle Stop (Building 7)",
+  "name": "Shuttle Stop: Building 7",
   "latitude": 34.057669168525315, 
   "longitude": -117.82771059776984,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Building 7"
 },{
-  "name": "Shuttle Stop (Lot L)",
+  "name": "Shuttle Stop: Lot L",
   "latitude": 34.055891855849815, 
   "longitude": -117.82504601145571,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Parking Lot M"
 },{
-  "name": "Shuttle Stop (Building 94)",
+  "name": "Shuttle Stop: Building 94",
   "latitude": 34.059457877299735, 
   "longitude": -117.82359971471527,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Building 94"
 },{
-  "name": "Shuttle Stop (Building 58)",
+  "name": "Shuttle Stop: Building 58",
   "latitude": 34.06153769341358, 
   "longitude": -117.82083504892883,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Building 58"
 },{
-  "name": "Shuttle Stop (Building 91)",
+  "name": "Shuttle Stop: Building 91",
   "latitude": 34.06162613534063, 
   "longitude": -117.81864330374005,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Building 91"
 },{
-  "name": "Shuttle Stop (Parking Structure 1)",
+  "name": "Shuttle Stop: Parking Structure 1",
   "latitude": 34.060045367535196, 
   "longitude": -117.8182681906968,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Parking Structure 1"
 },{
-  "name": "Shuttle Stop (Building 121)",
+  "name": "Shuttle Stop: Building 121",
   "latitude": 34.058396627600466, 
   "longitude": -117.81827460937362,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Student Services Building"
 },{
-  "name": "Shuttle Stop (Building 89)",
+  "name": "Shuttle Stop: Building 89",
   "latitude": 34.06047949557737, 
   "longitude": -117.81266767745058,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by Parking Lot E2 & Building 89"
 },{
-  "name": "Shuttle Stop (Lot B)",
+  "name": "Shuttle Stop: Lot B",
   "latitude": 34.052881568914806, 
   "longitude": -117.81563824327637,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop in Parking Lot B"
 },{
-  "name": "Shuttle Stop (S Campus Dr)",
+  "name": "Shuttle Stop: S Campus Dr",
   "latitude": 34.049948534849875, 
   "longitude": -117.81696992124007,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop near S Campus Dr and W Temple Ave"
 },{
-  "name": "Shuttle Stop (AGRIscapes)",
+  "name": "Shuttle Stop: AGRIscapes",
   "latitude": 34.04839826741851, 
   "longitude": -117.81994026692453,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by AGRIscapes and Farm Store"
 },{
-  "name": "Shuttle Stop (S University Dr 1)",
+  "name": "Shuttle Stop: S University Dr 1",
   "latitude": 34.048565118221674, 
   "longitude": -117.82089386177601,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by S University Dr and S Campus Dr"
 },{
-  "name": "Shuttle Stop (S University Dr 2)",
+  "name": "Shuttle Stop: S University Dr 2",
   "latitude": 34.05030051543808,  
   "longitude": -117.82067546228302,
   "hasShuttleStop": true,
   "tooltip": "Shuttle Stop by S University Dr and W Temple Ave"
 },{
-  "name": "Shuttle Stop (Parking Structure 2)",
+  "name": "Shuttle Stop: Parking Structure 2",
   "latitude": 34.05149005780445, 
   "longitude": -117.8197947036797,
   "hasShuttleStop": true,

@@ -34,6 +34,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 3: Science Laboratory"
 },{
   "buildingNum": 4,
@@ -66,6 +67,7 @@
   "hasVending": true, 
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 5: College of Letters, Arts, and Social Sciences"
 },{
   "buildingNum": 6,
@@ -78,6 +80,7 @@
   "hasVending": false,
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 6: College of Education and Integrative Studies"
 },{
   "buildingNum": 7,
@@ -104,6 +107,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 8: College of Science"
 },{
   "buildingNum": 9,
@@ -116,6 +120,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasOrientation": true,
+  "hasPwrDoorBtn": true,
   "hasAutoPowerDoor": true,
   "tooltip": "Building 9: College of Engineering"
 },{
@@ -176,6 +181,7 @@
   "hasPrinter": false,
   "hasVending": false,
   "isBuilding": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 17: Engineering Laboratories"
 },{
   "buildingNum": 20,
@@ -358,6 +364,7 @@
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
   "hasOrientation": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 35: Bronco Student Center"
 },{
   "buildingNum": "35A",
@@ -407,6 +414,7 @@
   "hasGenderInclusiveRestroom": true,
   "isLeedCertifiedBuilding": true,
   "hasOrientation": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 42: Bronco Recreation Intramural Complex (BRIC)"
 },{
   "buildingNum": 43,
@@ -609,6 +617,7 @@
   "hasLibraryReturn": true,
   "isBuilding": true,
   "hasOrientation": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 66: Bronco Bookstore"
 },{
   "buildingNum": 68,
@@ -641,6 +650,7 @@
   "isBuilding": true,
   "isLeedCertifiedBuilding": true,
   "hasOrientation": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 72: Centerpointe Dining Commons"
 },{
   "buildingNum": 73,
@@ -949,6 +959,7 @@
   "longitude": -117.81576180379531,
   "hasGenderInclusiveRestroom": true,
   "isBuilding": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 109: Police and Parking Services"
 },{
   "buildingNum": 111,
@@ -1025,6 +1036,7 @@
   "hasWater": true,
   "isLeedCertifiedBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasPwrDoorBtn": true,
   "tooltip": "Building 164: College of Business Administration"
 },{
   "buildingNum": 193,

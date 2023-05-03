@@ -87,6 +87,7 @@ def map():
     handleMarkers(m, "Natural Environment", "hasNaturalEnvironment", "orange", "fa-mountain")
     handleMarkers(m, "New Student Orientation", "hasOrientation", "purple", "fa-star")
     handleMarkers(m, "Automatic Power Door", "hasAutoPowerDoor", "blue", "fa-wheelchair")
+    handleMarkers(m, "Powered Door Button", "hasPwrDoorBtn", "purple", "fa-wheelchair")
 
     folium.LayerControl().add_to(m)
 

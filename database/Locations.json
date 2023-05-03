@@ -10,6 +10,7 @@
   "isBuilding": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 1: Building One"
 },{
   "buildingNum": 2,
@@ -23,6 +24,7 @@
   "isBuilding": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 2: Huntley College of Agriculture"
 },{
   "buildingNum": 3,
@@ -49,6 +51,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 4: Biotechnology Building"
 },{
   "buildingNum": "4A",
@@ -115,6 +118,7 @@
   "hasAutoPowerDoor": true,
   "hasPwrDoorBtn": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 8: College of Science"
 },{
   "buildingNum": 9,
@@ -130,6 +134,7 @@
   "hasPwrDoorBtn": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 9: College of Engineering"
 },{
   "buildingNum": 13,
@@ -180,6 +185,7 @@
   "hasOrientation": true,
   "hasAutoPowerDoor": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 15: Library"
 },{
   "buildingNum": 15,
@@ -187,6 +193,7 @@
   "latitude": 34.05811025817931, 
   "longitude": -117.82119048360423,
   "hasPrinter": true,
+  "hasComputerLab": true,
   "tooltip": "Building 15: 24 Hour Computer Lab"
 },{
   "buildingNum": 17,
@@ -200,6 +207,7 @@
   "isBuilding": true,
   "hasPwrDoorBtn": true,
   "hasElevator": true,
+  "hasComputerLab": true,
   "tooltip": "Building 17: Engineering Laboratories"
 },{
   "buildingNum": 20,
@@ -293,6 +301,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasOrientation": true,
+  "hasComputerLab": true,
   "tooltip": "Building 25: Drama Department/Theatre"
 },{
   "buildingNum": 26,
@@ -469,6 +478,7 @@
   "hasVending": true,
   "isBuilding": true,
   "hasGenderInclusiveRestroom": true,
+  "hasComputerLab": true,
   "tooltip": "Building 45: Apparel Merchandising and Management"
 },{
   "buildingNum": 46,
@@ -745,6 +755,7 @@
   "hasVending": true,
   "hasDining": true,
   "isBuilding": true,
+  "hasComputerLab": true,
   "tooltip": "Building 79: Collins College of Hospitality Management"
 },{
   "buildingNum": "79A",
@@ -857,6 +868,7 @@
   "hasPrinter": true,
   "hasVending": true,
   "isBuilding": true,
+  "hasComputerLab": true,
   "tooltip": "Building 89: Interim Design Center"
 },{
   "buildingNum": "89A",
@@ -940,6 +952,7 @@
   "hasDining": true,
   "isBuilding": true,
   "hasAutoPowerDoor": true,
+  "hasComputerLab": true,
   "tooltip": "Building 97: Campus Center"
 },{
   "buildingNum": 98,
